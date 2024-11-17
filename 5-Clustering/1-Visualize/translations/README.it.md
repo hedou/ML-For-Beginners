@@ -5,7 +5,7 @@ Il clustering è un tipo di [apprendimento non supervisionato](https://wikipedia
 [![No One Like You di PSquare](https://img.youtube.com/vi/ty2advRiWJM/0.jpg)](https://youtu.be/ty2advRiWJM "No One Like You di PSquare")
 
 > 🎥 Fare clic sull'immagine sopra per un video. Mentre si studia machine learning con il clustering, si potranno gradire brani della Nigerian Dance Hall: questa è una canzone molto apprezzata del 2014 di PSquare.
-## [Quiz pre-lezione](https://white-water-09ec41f0f.azurestaticapps.net/quiz/27/?loc=it)
+## [Quiz pre-lezione](https://gray-sand-07a10f403.1.azurestaticapps.net/quiz/27/?loc=it)
 
 ### Introduzione
 
@@ -27,7 +27,7 @@ In alternativa, lo si può utilizzare per raggruppare i risultati di ricerca, ad
 
 ✅ Una volta che i dati sono organizzati in cluster, viene assegnato un ID cluster e questa tecnica può essere utile quando si preserva la privacy di un insieme di dati; si può invece fare riferimento a un punto dati tramite il suo ID cluster, piuttosto che dati identificabili più rivelatori. Si riesce a pensare ad altri motivi per cui fare riferimento a un ID cluster piuttosto che ad altri elementi del cluster per identificarlo?
 
-In questo [modulo di apprendimento](https://docs.microsoft.com/learn/modules/train-evaluate-cluster-models?WT.mc_id=academic-15963-cxa) si approfondirà la propria comprensione delle tecniche di clustering
+In questo [modulo di apprendimento](https://docs.microsoft.com/learn/modules/train-evaluate-cluster-models?WT.mc_id=academic-77952-leestott) si approfondirà la propria comprensione delle tecniche di clustering
 
 ## Iniziare con il clustering
 
@@ -319,7 +319,7 @@ In generale, per il clustering è possibile utilizzare i grafici a dispersione p
 
 In preparazione per la lezione successiva, creare un grafico sui vari algoritmi di clustering che si potrebbero scoprire e utilizzare in un ambiente di produzione. Che tipo di problemi sta cercando di affrontare il clustering?
 
-## [Quiz post-lezione](https://white-water-09ec41f0f.azurestaticapps.net/quiz/28/?loc=it)
+## [Quiz post-lezione](https://gray-sand-07a10f403.1.azurestaticapps.net/quiz/28/?loc=it)
 
 ## Revisione e Auto Apprendimento
 

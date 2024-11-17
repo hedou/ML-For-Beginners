@@ -8,7 +8,7 @@ One of the most useful practical uses of machine learning is building recommenda
 
 > 🎥 Click the image above for a video: Jen Looper builds a web app using classified cuisine data
 
-## [Pre-lecture quiz](https://white-water-09ec41f0f.azurestaticapps.net/quiz/25/)
+## [Pre-lecture quiz](https://gray-sand-07a10f403.1.azurestaticapps.net/quiz/25/)
 
 In this lesson you will learn:
 
@@ -219,79 +219,59 @@ You can use your model directly in a web app. This architecture also allows you 
 1. First, import the [Onnx Runtime](https://www.onnxruntime.ai/):
 
     ```html
-    <script src="https://cdn.jsdelivr.net/npm/onnxruntime-web@1.9.09/dist/ort.min.js"></script> 
+    <script src="https://cdn.jsdelivr.net/npm/onnxruntime-web@1.9.0/dist/ort.min.js"></script> 
     ```
 
     > Onnx Runtime is used to enable running your Onnx models across a wide range of hardware platforms, including optimizations and an API to use.
 
 1. Once the Runtime is in place, you can call it:
 
-    ```javascript
+    ```html
     <script>
-        const ingredients = [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+        const ingredients = Array(380).fill(0);
         
-        const checks = [].slice.call(document.querySelectorAll('.checkbox'));
-
-        // use an async context to call onnxruntime functions.
-        function init() {
-            
-            checks.forEach(function (checkbox, index) {
-                checkbox.onchange = function () {
-                    if (this.checked) {
-                        var index = checkbox.value;
-
-                        if (index !== -1) {
-                            ingredients[index] = 1;
-                        }
-                        console.log(ingredients)
-                    }
-                    else {
-                        var index = checkbox.value;
-
-                        if (index !== -1) {
-                            ingredients[index] = 0;
-                        }
-                        console.log(ingredients)
-                    }
-                }
-            })
-        }
+        const checks = [...document.querySelectorAll('.checkbox')];
+        
+        checks.forEach(check => {
+            check.addEventListener('change', function() {
+                // toggle the state of the ingredient
+                // based on the checkbox's value (1 or 0)
+                ingredients[check.value] = check.checked ? 1 : 0;
+            });
+        });
 
         function testCheckboxes() {
-                for (var i = 0; i < checks.length; i++)
-                    if (checks[i].type == "checkbox")
-                        if (checks[i].checked)
-                            return true;
-                return false;
+            // validate if at least one checkbox is checked
+            return checks.some(check => check.checked);
         }
 
         async function startInference() {
 
-            let checked = testCheckboxes()
+            let atLeastOneChecked = testCheckboxes()
 
-            if (checked) {
-                try {
-                    // create a new session and load the model.
-                    
-                    const session = await ort.InferenceSession.create('./model.onnx');
-
-                    const input = new ort.Tensor(new Float32Array(ingredients), [1, 380]);
-                    const feeds = { float_input: input };
-
-                    // feed inputs and run
-
-                    const results = await session.run(feeds);
-
-                    // read from results
-                    alert('You can enjoy ' + results.label.data[0] + ' cuisine today!')
-
-                } catch (e) {
-                    console.log(`failed to inference ONNX model: ${e}.`);
-                }
+            if (!atLeastOneChecked) {
+                alert('Please select at least one ingredient.');
+                return;
             }
-            else alert("Please check an ingredient")
+            try {
+                // create a new session and load the model.
+                
+                const session = await ort.InferenceSession.create('./model.onnx');
+
+                const input = new ort.Tensor(new Float32Array(ingredients), [1, 380]);
+                const feeds = { float_input: input };
+
+                // feed inputs and run
+                const results = await session.run(feeds);
+
+                // read from results
+                alert('You can enjoy ' + results.label.data[0] + ' cuisine today!')
+
+            } catch (e) {
+                console.log(`failed to inference ONNX model`);
+                console.error(e);
+            }
         }
-        init();
                
     </script>
     ```
@@ -319,7 +299,7 @@ Congratulations, you have created a 'recommendation' web app  with a few fields.
 
 Your web app is very minimal, so continue to build it out using ingredients and their indexes from the [ingredient_indexes](../data/ingredient_indexes.csv) data. What flavor combinations work to create a given national dish?
 
-## [Post-lecture quiz](https://white-water-09ec41f0f.azurestaticapps.net/quiz/26/)
+## [Post-lecture quiz](https://gray-sand-07a10f403.1.azurestaticapps.net/quiz/26/)
 
 ## Review & Self Study
 

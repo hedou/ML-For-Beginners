@@ -4,7 +4,7 @@ Nesta lição, você usará o _dataset_ balanceado e tratado que salvou da últi
 
 Você usará este _dataset_ com uma variedade de classificadores para _prever uma determinada culinária nacional com base em um grupo de ingredientes_. Enquanto isso, você aprenderá mais sobre algumas das maneiras como os algoritmos podem ser aproveitados para tarefas de classificação.
 
-## [Questionário inicial](https://white-water-09ec41f0f.azurestaticapps.net/quiz/21?loc=ptbr)
+## [Questionário inicial](https://gray-sand-07a10f403.1.azurestaticapps.net/quiz/21?loc=ptbr)
 
 # Preparação
 
@@ -102,11 +102,11 @@ Então, qual classificador você deve escolher? Freqüentemente, percorrer vári
 ![comparação de classificadores](../images/comparison.png)
 > Plots gerados na documentação do Scikit-learn
 
-> O AutoML resolve esse problema perfeitamente executando essas comparações na nuvem, permitindo que você escolha o melhor algoritmo para seus dados. Teste-o [aqui](https://docs.microsoft.com/learn/modules/automate-model-selection-with-azure-automl/?WT.mc_id=academic-15963-cxa).
+> O AutoML resolve esse problema perfeitamente executando essas comparações na nuvem, permitindo que você escolha o melhor algoritmo para seus dados. Teste-o [aqui](https://docs.microsoft.com/learn/modules/automate-model-selection-with-azure-automl/?WT.mc_id=academic-77952-leestott).
 
 ### Uma abordagem melhor
 
-Melhor do que adivinhar, é seguir as ideias nesta [planilha com dicas de ML](https://docs.microsoft.com/azure/machine-learning/algorithm-cheat-sheet?WT.mc_id=academic-15963-cxa). Aqui, descobrimos que para o nosso problema multiclasse, temos algumas opções:
+Melhor do que adivinhar, é seguir as ideias nesta [planilha com dicas de ML](https://docs.microsoft.com/azure/machine-learning/algorithm-cheat-sheet?WT.mc_id=academic-77952-leestott). Aqui, descobrimos que para o nosso problema multiclasse, temos algumas opções:
 
 ![planilha com dicas para problemas multiclasse](../images/cheatsheet.png)
 > Uma planilha com dicas de algoritmo da Microsoft, detalhando as opções de classificação multiclasse.
@@ -232,7 +232,7 @@ Já que estamos usando um caso multiclasse, você precisa escolher qual _scheme_
 
 Nesta lição, você usou seus dados para construir um modelo de aprendizado de máquina que pode prever uma culinária nacional com base em uma série de ingredientes. Reserve algum tempo para ler as opções que o Scikit-learn oferece para classificar dados. Aprofunde-se no conceito de 'solucionador' para entender o que acontece nos bastidores.
 
-## [Questionário para fixação](https://white-water-09ec41f0f.azurestaticapps.net/quiz/22?loc=ptbr)
+## [Questionário para fixação](https://gray-sand-07a10f403.1.azurestaticapps.net/quiz/22?loc=ptbr)
 
 ## Revisão e Auto Aprendizagem
 

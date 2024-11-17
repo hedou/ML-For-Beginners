@@ -4,7 +4,7 @@
 
 Infográfico por [Dasani Madipalli](https://twitter.com/dasani_decoded)
 
-## [Questionário inicial](https://white-water-09ec41f0f.azurestaticapps.net/quiz/11?loc=ptbr)
+## [Questionário inicial](https://gray-sand-07a10f403.1.azurestaticapps.net/quiz/11?loc=ptbr)
 
 > ### [Esta liçao está disponível em R!](../solution/R/lesson_2-R.ipynb)
 
@@ -148,7 +148,7 @@ As visualizações também podem ajudar a determinar a técnica de _machine lear
 
 Uma biblioteca de visualização de dados que funciona bem nos blocos de _notebooks_ é a [Matplotlib](https://matplotlib.org/) (que você também viu na lição anterior).
 
-> Ganhe mais experiência em visualização de dados fazendo [esses tutoriais](https://docs.microsoft.com/learn/modules/explore-analyze-data-with-python?WT.mc_id=academic-15963-cxa).
+> Ganhe mais experiência em visualização de dados fazendo [esses tutoriais](https://docs.microsoft.com/learn/modules/explore-analyze-data-with-python?WT.mc_id=academic-77952-leestott).
 
 ## Exercício - Experimento com Matplotlib
 
@@ -197,7 +197,7 @@ Para fazer com que os gráficos exibam dados úteis, você precisa agrupar os da
 
 Explore os diferentes tipos de visualização que o Matplotlib oferece. Quais tipos são mais adequados para problemas de regressão?
 
-## [Questionário para fixação](https://white-water-09ec41f0f.azurestaticapps.net/quiz/12?loc=ptbr)
+## [Questionário para fixação](https://gray-sand-07a10f403.1.azurestaticapps.net/quiz/12?loc=ptbr)
 
 ## Revisão e Auto Aprendizagem
 

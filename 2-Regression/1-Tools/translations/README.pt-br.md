@@ -4,7 +4,7 @@
 
 > _Sketchnote_ por [Tomomi Imura](https://www.twitter.com/girlie_mac)
 
-## [Questionário inicial](https://white-water-09ec41f0f.azurestaticapps.net/quiz/9?loc=ptbr)
+## [Questionário inicial](https://gray-sand-07a10f403.1.azurestaticapps.net/quiz/9?loc=ptbr)
 
 > ### [Esta lição está disponível em R!](../solution/R/lesson_1-R.ipynb)
 
@@ -25,13 +25,13 @@ Nesta lição, você aprenderá como:
 
 > 🎥 Clique na imagem acima para assistir o vídeo: usando Python no VS Code (vídeo em inglês).
 
-1. **Instale Python**. Verifique se você já instalou [Python](https://www.python.org/downloads/) em seu computador. Você usará Python para muitas tarefas de _data science_ (ciência de dados) e _machine learning_. A maioria dos sistemas de computador já possui Python instalado. Existem [Pacotes de Código em Python](https://code.visualstudio.com/learn/educators/installers?WT.mc_id=academic-15963-cxa) disponíveis para ajudar na instalação.
+1. **Instale Python**. Verifique se você já instalou [Python](https://www.python.org/downloads/) em seu computador. Você usará Python para muitas tarefas de _data science_ (ciência de dados) e _machine learning_. A maioria dos sistemas de computador já possui Python instalado. Existem [Pacotes de Código em Python](https://code.visualstudio.com/learn/educators/installers?WT.mc_id=academic-77952-leestott) disponíveis para ajudar na instalação.
 
    Algumas aplicações em Python exigem versões diferentes da linguagem. Portanto, será útil trabalhar com [ambiente virtual](https://docs.python.org/3/library/venv.html).
 
-2. **Instale o Visual Studio Code**. Verifique se já existe o Visual Studio Code instalado em seu computador. Siga essas instruções para [instalar o Visual Studio Code](https://code.visualstudio.com/) com uma instalação básica. Você usará Python no Visual Studio Code neste curso e precisará [configurar o Visual Studio Code](https://docs.microsoft.com/learn/modules/python-install-vscode?WT.mc_id=academic-15963-cxa) para isso.
+2. **Instale o Visual Studio Code**. Verifique se já existe o Visual Studio Code instalado em seu computador. Siga essas instruções para [instalar o Visual Studio Code](https://code.visualstudio.com/) com uma instalação básica. Você usará Python no Visual Studio Code neste curso e precisará [configurar o Visual Studio Code](https://docs.microsoft.com/learn/modules/python-install-vscode?WT.mc_id=academic-77952-leestott) para isso.
 
-   > Fique mais confortável em usar Python trabalhando nessa coleção de [módulos de aprendizagem](https://docs.microsoft.com/users/jenlooper-2911/collections/mp1pagggd5qrq7?WT.mc_id=academic-15963-cxa).
+   > Fique mais confortável em usar Python trabalhando nessa coleção de [módulos de aprendizagem](https://docs.microsoft.com/users/jenlooper-2911/collections/mp1pagggd5qrq7?WT.mc_id=academic-77952-leestott).
 
 3. **Instale a Scikit-learn**, seguindo [estas instruções](https://scikit-learn.org/stable/install.html). Visto que você precisa ter certeza que está usando o Python 3, é recomendável usar um ambiente virtual. Note que se você estiver usando essa biblioteca em um M1 Mac, há instruções específicas na página linkada acima.
 
@@ -200,13 +200,13 @@ Parabéns, usando um conjunto de dados, você construiu seu primeiro modelo de r
 ## 🚀Desafio
 
 Plote uma variável diferente desse mesmo conjunto de dados. Dica: edite a linha: `X = X[:, np.newaxis, 2]`. Dado o conjunto de dados alvo, o que pode ser descoberto sobre o progresso da diabetes como uma doença?
-## [Questionário para fixação](https://white-water-09ec41f0f.azurestaticapps.net/quiz/10?loc=ptbr)
+## [Questionário para fixação](https://gray-sand-07a10f403.1.azurestaticapps.net/quiz/10?loc=ptbr)
 
 ## Revisão e Auto Aprendizagem
 
 Neste tutorial, você trabalhou com regressão linear simples, ao invés de regressão univariada ou múltipla. Leia sobre as diferença desses métodos, ou assista [esse vídeo](https://www.coursera.org/lecture/quantifying-relationships-regression-models/linear-vs-nonlinear-categorical-variables-ai2Ef).
 
-Leia mais sobre o conceito de regressão e pense sobre os tipos de questões que podem ser respondidas usando essa técnica. Faça esse [tutorial](https://docs.microsoft.com/learn/modules/train-evaluate-regression-models?WT.mc_id=academic-15963-cxa) para aprender mais.
+Leia mais sobre o conceito de regressão e pense sobre os tipos de questões que podem ser respondidas usando essa técnica. Faça esse [tutorial](https://docs.microsoft.com/learn/modules/train-evaluate-regression-models?WT.mc_id=academic-77952-leestott) para aprender mais.
 
 ## Tarefa
 

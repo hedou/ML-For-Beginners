@@ -5,7 +5,7 @@
 - 머신러닝을 받쳐주는 프로세스를 고수준에서 이해합니다.
 - 'models', 'predictions', 그리고 'training data'와 같은 기초 개념을 탐색합니다.
   
-## [강의 전 퀴즈](https://white-water-09ec41f0f.azurestaticapps.net/quiz/7/)
+## [강의 전 퀴즈](https://gray-sand-07a10f403.1.azurestaticapps.net/quiz/7/)
 
 ## 소개
 
@@ -25,7 +25,7 @@
 
 많은 다른 변수가 방정식에 포함되면, ML 모델이 과거 건강기록을 기반으로 미래 사망률을 예측하는 데에 효율적이라고 검증할 수 있습니다. 유쾌한 예시로 위도, 경도, 기후 변화, proximity to the ocean, 제트 기류의 패턴을 포함한 데이터 기반으로 주어진 위치에서 4월의 날씨를 예측하는 것입니다.
 
-✅ 날씨 모델에 대한 [slide deck](https://www2.cisl.ucar.edu/sites/default/files/0900%20June%2024%20Haupt_0.pdf)은 날씨 분석에서 ML을 사용한 역사적 관점을 제공합니다.
+✅ 날씨 모델에 대한 [slide deck](https://www2.cisl.ucar.edu/sites/default/files/2021-10/0900%20June%2024%20Haupt_0.pdf)은 날씨 분석에서 ML을 사용한 역사적 관점을 제공합니다.
 
 ## 작업 사전-구축하기
 
@@ -89,7 +89,7 @@ feature는 데이터의 측정할 수 있는 속성입니다. 많은 데이터�
 
 ## 파라미터 튜닝
 
-초반 훈련이 마무리 될 때, 모델의 품질을 살펴보고 'hyperparameters'를 트윅해서 개선하는 것을 고려합니다. [in the documentation](https://docs.microsoft.com/en-us/azure/machine-learning/how-to-tune-hyperparameters?WT.mc_id=academic-15963-cxa) 프로세스에 대하여 알아봅니다.
+초반 훈련이 마무리 될 때, 모델의 품질을 살펴보고 'hyperparameters'를 트윅해서 개선하는 것을 고려합니다. [in the documentation](https://docs.microsoft.com/en-us/azure/machine-learning/how-to-tune-hyperparameters?WT.mc_id=academic-77952-leestott) 프로세스에 대하여 알아봅니다.
 
 ## 예측
 
@@ -103,7 +103,7 @@ feature는 데이터의 측정할 수 있는 속성입니다. 많은 데이터�
 
 ML 실무자의 단계를 반영한 플로우를 그려보세요. 프로세스에서 지금 어디에 있는 지 보이나요? 어려운 내용을 예상할 수 있나요? 어떤게 쉬울까요?
 
-## [강의 후 퀴즈](https://white-water-09ec41f0f.azurestaticapps.net/quiz/8/)
+## [강의 후 퀴즈](https://gray-sand-07a10f403.1.azurestaticapps.net/quiz/8/)
 
 ## 검토 & 자기주도 학습
 

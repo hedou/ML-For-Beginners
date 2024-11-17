@@ -3,7 +3,7 @@
 ![Infografica di regressione lineare e logistica](../images/logistic-linear.png)
 > Infografica di [Dasani Madipalli](https://twitter.com/dasani_decoded)
 
-## [Quiz pre-lezione](https://white-water-09ec41f0f.azurestaticapps.net/quiz/15/?loc=it)
+## [Quiz pre-lezione](https://gray-sand-07a10f403.1.azurestaticapps.net/quiz/15/?loc=it)
 
 ## Introduzione
 
@@ -14,7 +14,7 @@ In questa lezione, si imparerà:
 - Una nuova libreria per la visualizzazione dei dati
 - Tecniche per la regressione logistica
 
-✅ Con questo [modulo di apprendimento](https://docs.microsoft.com/learn/modules/train-evaluate-classification-models?WT.mc_id=academic-15963-cxa) si potrà approfondire la comprensione del lavoro con questo tipo di regressione
+✅ Con questo [modulo di apprendimento](https://docs.microsoft.com/learn/modules/train-evaluate-classification-models?WT.mc_id=academic-77952-leestott) si potrà approfondire la comprensione del lavoro con questo tipo di regressione
 ## Prerequisito
 
 Avendo lavorato con i dati della zucca, ora si ha abbastanza familiarità con essi per rendersi conto che esiste una categoria binaria con cui è possibile lavorare: `Color` (Colore).
@@ -284,7 +284,7 @@ Nelle lezioni future sulle classificazioni si imparerà come eseguire l'iterazio
 
 C'è molto altro da svelare riguardo alla regressione logistica! Ma il modo migliore per imparare è sperimentare. Trovare un insieme di dati che si presti a questo tipo di analisi e costruire un modello con esso. Cosa si è appreso? suggerimento: provare [Kaggle](https://kaggle.com) per ottenere insiemi di dati interessanti.
 
-## [Quiz post-lezione](https://white-water-09ec41f0f.azurestaticapps.net/quiz/16/?loc=it)
+## [Quiz post-lezione](https://gray-sand-07a10f403.1.azurestaticapps.net/quiz/16/?loc=it)
 
 ## Revisione e Auto Apprendimento
 

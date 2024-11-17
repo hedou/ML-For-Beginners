@@ -38,7 +38,7 @@ Perjalanan bersama kami di seluruh dunia kerana kami menerapkan teknik klasik in
 - Selesaikan tugasan.
 - Setelah menyelesaikan kumpulan pelajaran, lawati [Discussion board](https://github.com/microsoft/ML-For-Beginners/discussions) dan "belajar dengan kuat" dengan mengisi rubrik PAT yang sesuai. 'PAT' adalah Alat Penilaian Kemajuan yang merupakan rubrik yang anda isi untuk melanjutkan pembelajaran anda. Anda juga boleh bertindak balas terhadap PAT lain sehingga kami dapat belajar bersama.
 
-> Untuk kajian lebih lanjut, kami mengesyorkan mengikuti [Microsoft Learn](https://docs.microsoft.com/en-us/users/jenlooper-2911/collections/k7o7tg1gp306q4?WT.mc_id=academic-15963-cxa) berikut dan jalan belajar.
+> Untuk kajian lebih lanjut, kami mengesyorkan mengikuti [Microsoft Learn](https://docs.microsoft.com/en-us/users/jenlooper-2911/collections/k7o7tg1gp306q4?WT.mc_id=academic-77952-leestott) berikut dan jalan belajar.
 
 **Guru**, kami telah [memasukkan beberapa cadangan](for-teachers.md) mengenai cara menggunakan kurikulum ini.
 
@@ -76,7 +76,7 @@ Dengan memastikan bahawa kandungan sesuai dengan projek, proses dibuat lebih men
 
 > **Catatan mengenai bahasa**: Pelajaran ini terutama ditulis dalam Python, tetapi banyak juga tersedia dalam R. Untuk menyelesaikan pelajaran R, pergi ke folder `/solution` dan cari pelajaran R. Mereka termasuk pelanjutan .rmd yang mewakili fail **R Markdown** yang hanya dapat didefinisikan sebagai penyisipan `potongan kode '(dari R atau bahasa lain) dan` header YAML` (yang membimbing cara memformat output seperti PDF) dalam `Markdown document`. Oleh itu, ia berfungsi sebagai kerangka penulisan teladan bagi sains data kerana ia membolehkan anda menggabungkan kod, output dan pemikiran anda dengan membolehkan anda menuliskannya dalam Markdown. Lebih-lebih lagi, dokumen R Markdown dapat diberikan ke format output seperti PDF, HTML, atau Word.
 
-> **Catatan mengenai kuiz**: Semua kuiz terkandung [dalam aplikasi ini](https://white-water-09ec41f0f.azurestaticapps.net/), untuk 50 keseluruhan kuiz masing-masing dari tiga soalan. Mereka dihubungkan dari dalam pelajaran tetapi aplikasi kuiz dapat dijalankan secara tempatan; ikuti arahan dalam folder `quiz-app`.
+> **Catatan mengenai kuiz**: Semua kuiz terkandung [dalam aplikasi ini](https://gray-sand-07a10f403.1.azurestaticapps.net/), untuk 50 keseluruhan kuiz masing-masing dari tiga soalan. Mereka dihubungkan dari dalam pelajaran tetapi aplikasi kuiz dapat dijalankan secara tempatan; ikuti arahan dalam folder `quiz-app`.
 
 
 | Nombor Pelajaran |                            Topik                               |                   Pengumpulan Pelajaran                        | Objektif Pembelajaran                                                                                                           |                   Pautan Pembelajaran                                                                                                           |     Pengarang                                      |

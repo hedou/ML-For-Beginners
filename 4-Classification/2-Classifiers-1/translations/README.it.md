@@ -4,7 +4,7 @@ In questa lezione, si utilizzerà l'insieme di dati salvati dall'ultima lezione,
 
 Si utilizzerà questo insieme di dati con una varietà di classificatori per _prevedere una determinata cucina nazionale in base a un gruppo di ingredienti_. Mentre si fa questo, si imparerà di più su alcuni dei modi in cui gli algoritmi possono essere sfruttati per le attività di classificazione.
 
-## [Quiz pre-lezione](https://white-water-09ec41f0f.azurestaticapps.net/quiz/21/?loc=it)
+## [Quiz pre-lezione](https://gray-sand-07a10f403.1.azurestaticapps.net/quiz/21/?loc=it)
 # Preparazione
 
 Supponendo che la [Lezione 1](../1-Introduction/README.md) sia stata completata, assicurarsi che _esista_ un file clean_cuisines.csv nella cartella in radice `/data` per queste quattro lezioni.
@@ -102,11 +102,11 @@ Quale classificatore si dovrebbe scegliere? Spesso, scorrerne diversi e cercare 
 ![confronto di classificatori](../images/comparison.png)
 > Grafici generati sulla documentazione di Scikit-learn
 
-> AutoML risolve questo problema in modo ordinato eseguendo questi confronti nel cloud, consentendo di scegliere l'algoritmo migliore per i propri dati. Si può provare [qui](https://docs.microsoft.com/learn/modules/automate-model-selection-with-azure-automl/?WT.mc_id=academic-15963-cxa)
+> AutoML risolve questo problema in modo ordinato eseguendo questi confronti nel cloud, consentendo di scegliere l'algoritmo migliore per i propri dati. Si può provare [qui](https://docs.microsoft.com/learn/modules/automate-model-selection-with-azure-automl/?WT.mc_id=academic-77952-leestott)
 
 ### Un approccio migliore
 
-Un modo migliore che indovinare a caso, tuttavia, è seguire le idee su questo [ML Cheat sheet](https://docs.microsoft.com/azure/machine-learning/algorithm-cheat-sheet?WT.mc_id=academic-15963-cxa) scaricabile. Qui si scopre che, per questo problema multiclasse, si dispone di  alcune scelte:
+Un modo migliore che indovinare a caso, tuttavia, è seguire le idee su questo [ML Cheat sheet](https://docs.microsoft.com/azure/machine-learning/algorithm-cheat-sheet?WT.mc_id=academic-77952-leestott) scaricabile. Qui si scopre che, per questo problema multiclasse, si dispone di  alcune scelte:
 
 ![cheatsheet per problemi multiclasse](../images/cheatsheet.png)
 > Una sezione dell'Algorithm Cheat Sheet di Microsoft, che descrive in dettaglio le opzioni di classificazione multiclasse
@@ -232,7 +232,7 @@ Poiché si sta utilizzando il caso multiclasse, si deve scegliere quale _schema_
 
 In questa lezione, sono stati utilizzati dati puliti per creare un modello di apprendimento automatico in grado di prevedere una cucina nazionale basata su una serie di ingredienti. Si prenda del tempo per leggere le numerose opzioni fornite da Scikit-learn per classificare i dati. Approfondire il concetto di "risolutore" per capire cosa succede dietro le quinte.
 
-## [Quiz post-lezione](https://white-water-09ec41f0f.azurestaticapps.net/quiz/22/?loc=it)
+## [Quiz post-lezione](https://gray-sand-07a10f403.1.azurestaticapps.net/quiz/22/?loc=it)
 ## Revisione e Auto Apprendimento
 
 Approfondire un po' la matematica alla base della regressione logistica in [questa lezione](https://people.eecs.berkeley.edu/~russell/classes/cs194/f11/lectures/CS194%20Fall%202011%20Lecture%2006.pdf)

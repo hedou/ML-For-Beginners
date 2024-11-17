@@ -2,7 +2,7 @@
 
 이전 강의에서 noun phrase 추출하는 기초 NLP 작업을 하기 위해 ML behind-the-scenes을 포함한 라이브러리인, `TextBlob`으로 기본적인 봇을 만드는 방식을 배웠습니다. 컴퓨터 언어학에서 다른 중요한 도전은 구두나 다른 언어로 문장을 정확하게 _translation_ 하는 것입니다.
 
-## [강의 전 퀴즈](https://white-water-09ec41f0f.azurestaticapps.net/quiz/35/)
+## [강의 전 퀴즈](https://gray-sand-07a10f403.1.azurestaticapps.net/quiz/35/)
 
 번역은 천여 개 언어와 각자 많이 다른 문법 규칙이 있다는 사실에 의해서 합쳐진 매우 어려운 문제입니다. 한 접근 방식은 영어처럼, 한 언어의 형식적인 문법 규칙을 비-언어 종속 구조로 변환하고, 다른 언어로 변환하면서 번역합니다. 이 접근 방식은 다음 단계로 진행된다는 점을 의미합니다:
 
@@ -177,11 +177,11 @@ Darcy, as well as Elizabeth, really loved them; and they were
 
 사용자 입력으로 다른 features를 추출해서 Marvin을 더 좋게 만들 수 있나요?
 
-## [강의 후 퀴즈](https://white-water-09ec41f0f.azurestaticapps.net/quiz/36/)
+## [강의 후 퀴즈](https://gray-sand-07a10f403.1.azurestaticapps.net/quiz/36/)
 
 ## 검토 & 자기주도 학습
 
-텍스트에서 감정을 추출하는 많은 방식이 있습니다. 이 기술로 사용할 수 있는 비지니스 애플리케이션을 생각해봅니다. 어떻게 틀릴 수 있는지도 생각해봅니다. [Azure Text Analysis](https://docs.microsoft.com/azure/cognitive-services/Text-Analytics/how-tos/text-analytics-how-to-sentiment-analysis?tabs=version-3-1?WT.mc_id=academic-15963-cxa) 같이 감정 분석을 하는 정교한 enterprise-ready 시스템에 대하여 읽어봅니다. Pride and Prejudice 일부 문장에서 미묘한 차이를 감지할 수 있는지 테스트 합니다.
+텍스트에서 감정을 추출하는 많은 방식이 있습니다. 이 기술로 사용할 수 있는 비지니스 애플리케이션을 생각해봅니다. 어떻게 틀릴 수 있는지도 생각해봅니다. [Azure Text Analysis](https://docs.microsoft.com/azure/cognitive-services/Text-Analytics/how-tos/text-analytics-how-to-sentiment-analysis?tabs=version-3-1?WT.mc_id=academic-77952-leestott) 같이 감정 분석을 하는 정교한 enterprise-ready 시스템에 대하여 읽어봅니다. Pride and Prejudice 일부 문장에서 미묘한 차이를 감지할 수 있는지 테스트 합니다.
 
 ## 과제 
 

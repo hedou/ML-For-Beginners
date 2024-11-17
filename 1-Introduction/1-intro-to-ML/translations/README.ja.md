@@ -4,7 +4,7 @@
 
 > 🎥 上の画像をクリックすると、機械学習、AI、深層学習の違いについて説明した動画が表示されます。
 
-## [Pre-lecture quiz](https://white-water-09ec41f0f.azurestaticapps.net/quiz/1?loc=ja)
+## [Pre-lecture quiz](https://gray-sand-07a10f403.1.azurestaticapps.net/quiz/1?loc=ja)
 
 ### イントロダクション
 
@@ -17,7 +17,7 @@
 このカリキュラムを始める前に、コンピュータを設定し、ノートブックをローカルで実行できるようにする必要があります。
 
 - **こちらのビデオでマシンの設定を行ってください。** マシンの設定方法については、[これらのビデオ](https://www.youtube.com/playlist?list=PLlrxD0HtieHhS8VzuMCfQD4uJ9yne1mE6)をご覧ください。
-- **Pythonを学習する。** 本講座で使用する、データサイエンティストに有用なプログラミング言語である[Python](https://docs.microsoft.com/learn/paths/python-language/?WT.mc_id=academic-15963-cxa)の基本的な理解があることが望ましいです。
+- **Pythonを学習する。** 本講座で使用する、データサイエンティストに有用なプログラミング言語である[Python](https://docs.microsoft.com/learn/paths/python-language/?WT.mc_id=academic-77952-leestott)の基本的な理解があることが望ましいです。
 - **Node.jsとJavaScriptを学習する。** このコースではウェブアプリを構築する際にJavaScriptも何度か使用しますので、[node](https://nodejs.org)と[npm](https://www.npmjs.com/)がインストールされていること、PythonとJavaScriptの両方の開発に必要な[Visual Studio Code](https://code.visualstudio.com/)が利用可能であることが必要です。
 - **GitHubのアカウントを作成する。** [GitHub](https://github.com)で私たちを見つけたのですから、すでにアカウントをお持ちかもしれませんが、もしお持ちでなければ、アカウントを作成して、このカリキュラムをフォークしてご自分でお使いください。(スターをつけることもお忘れなく😊)
 - **Scikit-learnを探索する。** このレッスンで参照するMLライブラリのセットである[Scikit-learn]([https://scikit-learn.org/stable/user_guide.html)に慣れ親しんでください。
@@ -94,11 +94,11 @@
 ## 🚀 Challenge
 AI、ML、深層学習、データサイエンスの違いについて理解していることを、紙や[Excalidraw](https://excalidraw.com/)などのオンラインアプリを使ってスケッチしてください。また、それぞれの技術が得意とする問題のアイデアを加えてみてください。
 
-## [Post-lecture quiz](https://white-water-09ec41f0f.azurestaticapps.net/quiz/2?loc=ja)
+## [Post-lecture quiz](https://gray-sand-07a10f403.1.azurestaticapps.net/quiz/2?loc=ja)
 
 ## 振り返りと自習
 
-クラウド上でMLアルゴリズムをどのように扱うことができるかについては、この[ラーニングパス](https://docs.microsoft.com/learn/paths/create-no-code-predictive-models-azure-machine-learning/?WT.mc_id=academic-15963-cxa)に従ってください。
+クラウド上でMLアルゴリズムをどのように扱うことができるかについては、この[ラーニングパス](https://docs.microsoft.com/learn/paths/create-no-code-predictive-models-azure-machine-learning/?WT.mc_id=academic-77952-leestott)に従ってください。
 
 ## 課題
 

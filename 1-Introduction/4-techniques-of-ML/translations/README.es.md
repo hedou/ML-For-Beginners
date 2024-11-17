@@ -6,7 +6,7 @@ El proceso de creación, uso y mantenimiento de modelos de machine learning, y l
 - Explorar conceptos básicos como 'modelos', 'predicciones', y 'datos de entrenamiento'
 
  
-## [Cuestionario previo a la conferencia](https://white-water-09ec41f0f.azurestaticapps.net/quiz/7/)
+## [Cuestionario previo a la conferencia](https://gray-sand-07a10f403.1.azurestaticapps.net/quiz/7?loc=es)
 ## Introducción
 
 A un alto nivel, el arte de crear procesos de machine learning (ML) se compone de una serie de pasos:
@@ -25,7 +25,7 @@ Las computadoras son particularmente hábiles para descubrir patrones ocultos en
 
 Sin embargo, cuando se incorporan muchas otras variables a la ecuación, un modelo de ML podría resultar más eficiente para predecir las tasas de mortalidad futuras en función de los antecedentes de salud. Un ejemplo más alegre podría hacer predicciones meteorológicas para el mes de abril en una ubicación determinada que incluya latitud, longitud, cambio climático, proximidad al océano, patrones de la corriente en chorro, y más. 
 
-✅ Esta [presentación de diapositivas](https://www2.cisl.ucar.edu/sites/default/files/0900%20June%2024%20Haupt_0.pdf) sobre modelos meteorológicos ofrece una perspectiva histórica del uso de ML en el análisis meteorológico.
+✅ Esta [presentación de diapositivas](https://www2.cisl.ucar.edu/sites/default/files/2021-10/0900%20June%2024%20Haupt_0.pdf) sobre modelos meteorológicos ofrece una perspectiva histórica del uso de ML en el análisis meteorológico.
 
 ## Tarea previas a la construcción
 
@@ -89,7 +89,7 @@ En el contexto del machine learning, el ajuste del modelo se refiere a la precis
 
 ## Ajuste de parámetros
 
-Una vez que haya completado su entrenamiento inicial, observe la calidad del modelo y considere mejorarlo ajustando sus 'hiperparámetros'. Lea más sobre el proceso [en la documentación](https://docs.microsoft.com/en-us/azure/machine-learning/how-to-tune-hyperparameters?WT.mc_id=academic-15963-cxa).
+Una vez que haya completado su entrenamiento inicial, observe la calidad del modelo y considere mejorarlo ajustando sus 'hiperparámetros'. Lea más sobre el proceso [en la documentación](https://docs.microsoft.com/en-us/azure/machine-learning/how-to-tune-hyperparameters?WT.mc_id=academic-77952-leestott).
 
 ## Predicción
 
@@ -101,7 +101,7 @@ En estas lecciones, descubrirá cómo utilizar estos pasos para preparar, constr
 
 Dibuje un diagrama de flujos que refleje los pasos de practicante de ML. ¿Dónde te ves ahora mismo en el proceso? ¿Dónde predice que encontrará dificultades? ¿Qué te parece fácil? 
 
-## [Cuestionario posterior a la conferencia](https://white-water-09ec41f0f.azurestaticapps.net/quiz/8/)
+## [Cuestionario posterior a la conferencia](https://gray-sand-07a10f403.1.azurestaticapps.net/quiz/8?loc=es)
 
 ## Revisión & Autoestudio
 

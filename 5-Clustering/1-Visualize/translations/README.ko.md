@@ -6,7 +6,7 @@ Clustering이 데이터셋에 라벨을 붙이지 않거나 입력이 미리 정
 
 > 🎥 영상을 보려면 이미지 클릭. While you're studying machine learning with clustering, enjoy some Nigerian Dance Hall tracks - this is a highly rated song from 2014 by PSquare.
 
-## [강의 전 퀴즈](https://white-water-09ec41f0f.azurestaticapps.net/quiz/27/)
+## [강의 전 퀴즈](https://gray-sand-07a10f403.1.azurestaticapps.net/quiz/27/)
 
 ### 소개
 
@@ -28,7 +28,7 @@ Clustering이 데이터셋에 라벨을 붙이지 않거나 입력이 미리 정
 
 ✅ 데이터가 클러스터에서 구성되면, 클러스터 ID를 할당하며, 이 기술로 데이터셋의 프라이버시를 보호할 때 유용합니다; 식별할 수 있는 데이터를 더 노출하는 대신, 클러스터 ID로 데이터 포인트를 참조할 수 있습니다. 클러스터의 다른 요소가 아닌 클러스터 ID를 참조해서 식별하는 이유를 생각할 수 있나요?
 
-이 [Learn module](https://docs.microsoft.com/learn/modules/train-evaluate-cluster-models?WT.mc_id=academic-15963-cxa)에서 clustering 기술을 깊게 이해합니다.
+이 [Learn module](https://docs.microsoft.com/learn/modules/train-evaluate-cluster-models?WT.mc_id=academic-77952-leestott)에서 clustering 기술을 깊게 이해합니다.
 
 ## Clustering 시작하기
 
@@ -322,7 +322,7 @@ Clustering이 데이터셋에 라벨을 붙이지 않거나 입력이 미리 정
 
 다음 강의를 준비하기 위해서, 프로덕션 환경에서 찾아서 사용할 수 있는 다양한 clustering 알고리즘을 차트로 만듭니다. clustering은 어떤 문제를 해결하려고 시도하나요?
 
-## [강의 후 퀴즈](https://white-water-09ec41f0f.azurestaticapps.net/quiz/28/)
+## [강의 후 퀴즈](https://gray-sand-07a10f403.1.azurestaticapps.net/quiz/28/)
 
 ## 검토 & 자기주도 학습
 

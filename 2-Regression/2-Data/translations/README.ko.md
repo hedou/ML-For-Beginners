@@ -4,7 +4,7 @@
 
 > Infographic by [Dasani Madipalli](https://twitter.com/dasani_decoded)
 
-## [강의 전 퀴즈](https://white-water-09ec41f0f.azurestaticapps.net/quiz/11/)
+## [강의 전 퀴즈](https://gray-sand-07a10f403.1.azurestaticapps.net/quiz/11/)
 
 ## 소개
 
@@ -142,7 +142,7 @@ bushel 수량이 행마다 다른 것을 알았나요? bushel 단위로 가격�
 
 Jupyter notebooks에서 잘 작동하는 데이터 시각화 라이브러리는 (이전 강의에서 보았던) [Matplotlib](https://matplotlib.org/)입니다.
 
-> [these tutorials](https://docs.microsoft.com/learn/modules/explore-analyze-data-with-python?WT.mc_id=academic-15963-cxa)에서 데이터 시각화 연습을 더 해보세요.
+> [these tutorials](https://docs.microsoft.com/learn/modules/explore-analyze-data-with-python?WT.mc_id=academic-77952-leestott)에서 데이터 시각화 연습을 더 해보세요.
 
 ## 연습 - Matplotlib으로 실험하기
 
@@ -191,7 +191,7 @@ Jupyter notebooks에서 잘 작동하는 데이터 시각화 라이브러리는 
 
 Matplotlib에서 제공하는 다양한 시각화 타입을 찾아보세요. regression 문제에 가장 적당한 타입은 무엇인가요?
 
-## [강의 후 퀴즈](https://white-water-09ec41f0f.azurestaticapps.net/quiz/12/)
+## [강의 후 퀴즈](https://gray-sand-07a10f403.1.azurestaticapps.net/quiz/12/)
 
 ## 검토 & 자기주도 학습
 

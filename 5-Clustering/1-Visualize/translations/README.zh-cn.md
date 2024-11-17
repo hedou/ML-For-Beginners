@@ -6,7 +6,7 @@
 
 > 🎥 点击上面的图片观看视频。当您通过聚类学习机器学习时，请欣赏一些尼日利亚舞厅曲目 - 这是 2014 年 PSquare 上高度评价的歌曲。
 
-## [课前测验](https://white-water-09ec41f0f.azurestaticapps.net/quiz/27/)
+## [课前测验](https://gray-sand-07a10f403.1.azurestaticapps.net/quiz/27/)
 
 ### 介绍
 
@@ -28,7 +28,7 @@
 
 ✅一旦你的数据被组织成聚类，你就为它分配一个聚类 ID，这个技术在保护数据集的隐私时很有用；您可以改为通过其聚类 ID 来引用数据点，而不是通过更多的可明显区分的数据。您能想到为什么要引用聚类 ID 而不是聚类的其他元素来识别它的其他原因吗？
 
-在此[学习模块中](https://docs.microsoft.com/learn/modules/train-evaluate-cluster-models?WT.mc_id=academic-15963-cxa)加深您对聚类技术的理解
+在此[学习模块中](https://docs.microsoft.com/learn/modules/train-evaluate-cluster-models?WT.mc_id=academic-77952-leestott)加深您对聚类技术的理解
 
 ## 聚类入门
 
@@ -326,7 +326,7 @@
 
 聚类试图解决什么样的问题？
 
-## [课后测验](https://white-water-09ec41f0f.azurestaticapps.net/quiz/28/)
+## [课后测验](https://gray-sand-07a10f403.1.azurestaticapps.net/quiz/28/)
 
 ## 复习与自学
 

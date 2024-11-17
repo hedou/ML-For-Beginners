@@ -7,7 +7,7 @@ In questo programma di studi si sono appresi molti modi per preparare i dati per
 
 Sebbene l'intelligenza artificiale abbia suscitato molto interesse nell'industria, che di solito sfrutta il deep learning, esistono ancora preziose applicazioni per i modelli classici di machine learning. Si potrebbero anche usare alcune di queste applicazioni oggi! In questa lezione, si esplorerà come otto diversi settori e campi relativi all'argomento utilizzano questi tipi di modelli per rendere le loro applicazioni più performanti, affidabili, intelligenti e preziose per gli utenti.
 
-## [Quiz pre-lezione](https://white-water-09ec41f0f.azurestaticapps.net/quiz/49/?loc=it)
+## [Quiz pre-lezione](https://gray-sand-07a10f403.1.azurestaticapps.net/quiz/49/?loc=it)
 
 ## Finanza
 
@@ -97,7 +97,7 @@ https://www.frontiersin.org/articles/10.3389/fneur.2018.00006/pieno
 
 ### Rilevamento del movimento degli animali
 
-Mentre il deep learning ha creato una rivoluzione nel tracciamento visivo dei movimenti degli animali (qui si può costruire il proprio [localizzatore di orsi polari](https://docs.microsoft.com/learn/modules/build-ml-model-with-azure-stream-analytics/?WT.mc_id=academic-15963-cxa) ), il machine learning classico ha ancora un posto in questo compito.
+Mentre il deep learning ha creato una rivoluzione nel tracciamento visivo dei movimenti degli animali (qui si può costruire il proprio [localizzatore di orsi polari](https://docs.microsoft.com/learn/modules/build-ml-model-with-azure-stream-analytics/?WT.mc_id=academic-77952-leestott) ), il machine learning classico ha ancora un posto in questo compito.
 
 I sensori per tracciare i movimenti degli animali da fattoria e l'internet delle cose fanno uso di questo tipo di elaborazione visiva, ma tecniche di machine learning di base sono utili per preelaborare i dati. Ad esempio, in questo documento, le posture delle pecore sono state monitorate e analizzate utilizzando vari algoritmi di classificazione. Si potrebbe riconoscere la curva ROC a pagina 335.
 
@@ -151,7 +151,7 @@ https://ai.inqline.com/machine-learning-for-marketing-customer-segmentation/
 
 Identificare un altro settore che beneficia di alcune delle tecniche apprese in questo programma di studi e scoprire come utilizza il machine learning.
 
-## [Quiz post-lezione](https://white-water-09ec41f0f.azurestaticapps.net/quiz/50/?loc=it)
+## [Quiz post-lezione](https://gray-sand-07a10f403.1.azurestaticapps.net/quiz/50/?loc=it)
 
 ## Revisione e Auto Apprendimento
 

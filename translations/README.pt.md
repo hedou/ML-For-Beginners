@@ -36,7 +36,7 @@ Viaja connosco ao redor do mundo enquanto aplicamos estas técnicas clássicas a
 - Conclui a tarefa
 - Depois de concluir uma aula em grupo, visita o [Quadro de discussão](https://github.com/microsoft/ML-For-Beginners/discussions) e "aprende em voz alta" preenchendo a rúbrica PAT apropriada. Um 'PAT' é uma ferramenta de avaliação de progresso que é uma rúbrica que preenches para promover a tua aprendizagem. Também podes reagir a outros PATs para que possamos aprender juntos.
 
-> Para um estudo mais aprofundado, recomendamos que sigas estes [Microsoft Learn](https://docs.microsoft.com/en-us/users/jenlooper-2911/collections/k7o7tg1gp306q4?WT.mc_id=academic-15963-cxa) módulos e percursos de aprendizagem.
+> Para um estudo mais aprofundado, recomendamos que sigas estes [Microsoft Learn](https://docs.microsoft.com/en-us/users/jenlooper-2911/collections/k7o7tg1gp306q4?WT.mc_id=academic-77952-leestott) módulos e percursos de aprendizagem.
 
 **Professores**, [incluímos algumas sugestões](../for-teachers.md) em como usar este curso.
 
@@ -71,7 +71,7 @@ Ao garantir que o conteúdo esteja alinhado com os projetos, o processo torna-se
 - tarefa
 - teste pós-aula
 
-> **Uma nota sobre testes**: Podes encontrar todos os testes [nesta app](https://white-water-09ec41f0f.azurestaticapps.net/), para um total de 50 testes de 3 perguntas cada. Eles estão vinculados às aulas, mas a aplicação do teste pode ser executada localmente; segue as intruções na pasta `quiz-app`.
+> **Uma nota sobre testes**: Podes encontrar todos os testes [nesta app](https://gray-sand-07a10f403.1.azurestaticapps.net/), para um total de 50 testes de 3 perguntas cada. Eles estão vinculados às aulas, mas a aplicação do teste pode ser executada localmente; segue as intruções na pasta `quiz-app`.
 
 | Número de aula |                                Tópico                                 |                 Agrupamento de Aulas                  | Objetivos de aprendizagem                                                                                                            |                   Aula vinculada                    |    Autor     |
 | :------------: | :-------------------------------------------------------------------: | :---------------------------------------------------: | ------------------------------------------------------------------------------------------------------------------------------------ | :-------------------------------------------------: | :----------: |

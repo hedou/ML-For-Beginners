@@ -2,7 +2,7 @@
 
 ![Infográfico logístico vs. regressão linear](../images/logistic-linear.png)
 > Infographic by [Dasani Madipalli](https://twitter.com/dasani_decoded)
-## [Questionário pré-palestra](https://white-water-09ec41f0f.azurestaticapps.net/quiz/15/)
+## [Questionário pré-palestra](https://gray-sand-07a10f403.1.azurestaticapps.net/quiz/15/)
 
 > ### [Esta lição está disponível em R!](./solution/R/lesson_4-R.ipynb)
 
@@ -14,7 +14,7 @@ Nesta lição, aprenderá:
 - Uma nova biblioteca para visualização de dados
 - Técnicas de regressão logística
 
-✅ aprofundar a sua compreensão de trabalhar com este tipo de regressão neste [módulo Aprender](https://docs.microsoft.com/learn/modules/train-evaluate-classification-models?WT.mc_id=academic-15963-cxa)
+✅ aprofundar a sua compreensão de trabalhar com este tipo de regressão neste [módulo Aprender](https://docs.microsoft.com/learn/modules/train-evaluate-classification-models?WT.mc_id=academic-77952-leestott)
 ## Pré-requisito
 
 Tendo trabalhado com os dados da abóbora, estamos agora familiarizados o suficiente para perceber que há uma categoria binária com a qual podemos trabalhar:` Cor`.
@@ -291,7 +291,7 @@ Em lições futuras sobre classificações, você aprenderá a iterar para melho
 
 Há muito mais a desempacotar em relação à regressão logística! Mas a melhor maneira de aprender é experimentar. Encontre um conjunto de dados que se preste a esse tipo de análise e construa um modelo com ele. O que você aprende? dica: tente [Kaggle](https://www.kaggle.com/search?q=logistic+regression+datasets) para obter conjuntos de dados interessantes.
 
-## [Teste pós-aula](https://white-water-09ec41f0f.azurestaticapps.net/quiz/16/)
+## [Teste pós-aula](https://gray-sand-07a10f403.1.azurestaticapps.net/quiz/16/)
 
 ## Análise e autoestudo
 

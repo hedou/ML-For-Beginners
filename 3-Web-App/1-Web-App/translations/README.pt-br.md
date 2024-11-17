@@ -11,7 +11,7 @@ Continuaremos nosso uso de notebooks para limpar dados e treinar nosso modelo, m
 
 Para fazer isso, você precisa construir um aplicativo da web usando o Flask.
 
-## [Teste pré-aula](https://white-water-09ec41f0f.azurestaticapps.net/quiz/17?loc=ptbr)
+## [Teste pré-aula](https://gray-sand-07a10f403.1.azurestaticapps.net/quiz/17?loc=ptbr)
 
 ## Construindo um aplicativo
 
@@ -27,7 +27,7 @@ Existem muitas perguntas que você precisa fazer:
 - **Qual tecnologia foi usada para treinar o modelo?** A tecnologia escolhida pode influenciar o ferramental que você precisa usar.
     - **Usando o fluxo do Tensor.** Se você estiver treinando um modelo usando o TensorFlow, por exemplo, esse ecossistema oferece a capacidade de converter um modelo do TensorFlow para uso em um aplicativo da web usando [TensorFlow.js](https://www.tensorflow.org/js/).
     - **Usando o PyTorch.** Se você estiver construindo um modelo usando uma biblioteca como [PyTorch](https://pytorch.org/), você tem a opção de exportá-lo em formato [ONNX](https://onnx.ai/) (Troca de rede neural aberta (Open Neural Network Exchange)) para uso em aplicativos web JavaScript que podem usar o [Onnx Runtime](https://www.onnxruntime.ai/). Esta opção será explorada em uma lição futura para um modelo treinado para aprender com Scikit.
-    - **Usando Lobe.ai ou Azure Custom Vision.** Se você estiver usando um sistema ML SaaS (Software as a Service), como [Lobe.ai](https://lobe.ai/) ou [Azure Custom Vision](https://azure.microsoft.com/services/cognitive-services/custom-vision-service/?WT.mc_id=academic-15963-cxa) para treinar um modelo, este tipo de software fornece maneiras de exportar o modelo para muitas plataformas, incluindo a construção de uma API sob medida para ser consultada na nuvem por seu aplicativo online.
+    - **Usando Lobe.ai ou Azure Custom Vision.** Se você estiver usando um sistema ML SaaS (Software as a Service), como [Lobe.ai](https://lobe.ai/) ou [Azure Custom Vision](https://azure.microsoft.com/services/cognitive-services/custom-vision-service/?WT.mc_id=academic-77952-leestott) para treinar um modelo, este tipo de software fornece maneiras de exportar o modelo para muitas plataformas, incluindo a construção de uma API sob medida para ser consultada na nuvem por seu aplicativo online.
 
 Você também tem a oportunidade de construir um aplicativo web Flask inteiro que seria capaz de treinar o próprio modelo em um navegador da web. Isso também pode ser feito usando TensorFlow.js em um contexto JavaScript.
 
@@ -37,7 +37,7 @@ Para nossos propósitos, já que estamos trabalhando com notebooks baseados em P
 
 Para esta tarefa, você precisa de duas ferramentas: Flask e Pickle, ambos executados em Python.
 
-✅ O que é [Flask](https://palletsprojects.com/p/flask/)? Definido como um 'micro-framework' por seus criadores, o Flask fornece os recursos básicos de estruturas web usando Python e um mecanismo de modelagem para construir páginas web. Dê uma olhada [neste módulo de aprendizagem](https://docs.microsoft.com/learn/modules/python-flask-build-ai-web-app?WT.mc_id=academic-15963-cxa) para praticar a construção com Flask.
+✅ O que é [Flask](https://palletsprojects.com/p/flask/)? Definido como um 'micro-framework' por seus criadores, o Flask fornece os recursos básicos de estruturas web usando Python e um mecanismo de modelagem para construir páginas web. Dê uma olhada [neste módulo de aprendizagem](https://docs.microsoft.com/learn/modules/python-flask-build-ai-web-app?WT.mc_id=academic-77952-leestott) para praticar a construção com Flask.
 
 ✅ O que é [Pickle](https://docs.python.org/3/library/pickle.html)? Pickle 🥒 é um módulo Python que serializa e desserializa a estrutura de um objeto Python. Quando você 'pickle' um modelo, serializa ou aplaina sua estrutura para uso na web. Tenha cuidado: pickle não é intrinsecamente seguro, então tome cuidado se for solicitado para ser feito um 'un-pickle' em um arquivo. Um arquivo tem o sufixo `.pkl`.
 
@@ -337,7 +337,7 @@ Em um ambiente profissional, você pode ver como uma boa comunicação é necess
 
 Em vez de trabalhar em um notebook e importar o modelo para o aplicativo Flask, você pode treinar o modelo diretamente no aplicativo Flask! Tente converter seu código Python no notebook, talvez depois que seus dados forem limpos, para treinar o modelo de dentro do aplicativo em uma rota chamada `train`. Quais são os prós e os contras de seguir esse método?
 
-## [Teste pós-aula](https://white-water-09ec41f0f.azurestaticapps.net/quiz/18?loc=ptbr)
+## [Teste pós-aula](https://gray-sand-07a10f403.1.azurestaticapps.net/quiz/18?loc=ptbr)
 
 ## Revisão e autoestudo
 

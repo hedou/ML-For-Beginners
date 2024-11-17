@@ -3,7 +3,7 @@
 ![Infografik visualisasi data](../images/data-visualization.png)
 > Infografik oleh [Dasani Madipalli](https://twitter.com/dasani_decoded)
 
-## [Kuis pra-ceramah](https://white-water-09ec41f0f.azurestaticapps.net/quiz/11/)
+## [Kuis pra-ceramah](https://gray-sand-07a10f403.1.azurestaticapps.net/quiz/11/)
 
 ## Pembukaan
 
@@ -142,7 +142,7 @@ Visualisasi juga bisa membantu menentukan teknik *machine learning* yang palingn
 
 Satu *library* visualisasi data yang bekerja dengan baik dalam sebuah *Jupyter notebook* adalah [Matplotlib](https://matplotlib.org/) (yang kamu juga lihat dalam pelajaran sebelumnya).
 
-> Carilah pengalaman dalam memvisualisasi data dengan [tutorial-tutorial ini](https://docs.microsoft.com/learn/modules/explore-analyze-data-with-python?WT.mc_id=academic-15963-cxa).
+> Carilah pengalaman dalam memvisualisasi data dengan [tutorial-tutorial ini](https://docs.microsoft.com/learn/modules/explore-analyze-data-with-python?WT.mc_id=academic-77952-leestott).
 
 ## Latihan - sebuah experimen dengan Matplotlib
 
@@ -191,7 +191,7 @@ Untuk menjadikan sebuah grafik menjadi berguna, biasanya datanya harus dikelompo
 
 Jelajahi jenis-jenis visualisasi yang beda dan yang disediakan Matplotlib. Jenis mana yang paling cocok untuk kasus regresi?
 
-## [Kuis pasca-ceramah](https://white-water-09ec41f0f.azurestaticapps.net/quiz/12/)
+## [Kuis pasca-ceramah](https://gray-sand-07a10f403.1.azurestaticapps.net/quiz/12/)
 
 ## Review & Pembelajaran Mandiri
 

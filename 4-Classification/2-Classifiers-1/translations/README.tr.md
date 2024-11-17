@@ -4,7 +4,7 @@ Bu derste, mutfaklarla ilgili dengeli ve temiz veriyle dolu, geçen dersten kayd
 
 Bu veri setini çeşitli sınıflandırıcılarla _bir grup malzemeyi baz alarak verilen bir ulusal mutfağı öngörmek_ için kullanacaksınız. Bunu yaparken, sınıflandırma görevleri için algoritmaların leveraj edilebileceği yollardan bazıları hakkında daha fazla bilgi edineceksiniz.
 
-## [Ders öncesi kısa sınavı](https://white-water-09ec41f0f.azurestaticapps.net/quiz/21/?loc=tr)
+## [Ders öncesi kısa sınavı](https://gray-sand-07a10f403.1.azurestaticapps.net/quiz/21/?loc=tr)
 # Hazırlık
 
 [Birinci dersi](../../1-Introduction/README.md) tamamladığınızı varsayıyoruz, dolayısıyla bu dört ders için _cleaned_cuisines.csv_ dosyasının kök `/data` klasöründe var olduğundan emin olun.
@@ -101,11 +101,11 @@ Scikit-learn, sınıflandırmayı gözetimli öğrenme altında grupluyor. Bu ka
 ![sınıflandırıcıların karşılaştırılması](../images/comparison.png)
 > Grafikler Scikit-learn dokümantasyonlarında oluşturulmuştur.
 
-> AutoML, bu karşılaştırmaları bulutta çalıştırarak bu problemi muntazam bir şekilde çözer ve veriniz için en iyi algoritmayı seçmenizi sağlar. [Buradan](https://docs.microsoft.com/learn/modules/automate-model-selection-with-azure-automl/?WT.mc_id=academic-15963-cxa) deneyin.
+> AutoML, bu karşılaştırmaları bulutta çalıştırarak bu problemi muntazam bir şekilde çözer ve veriniz için en iyi algoritmayı seçmenizi sağlar. [Buradan](https://docs.microsoft.com/learn/modules/automate-model-selection-with-azure-automl/?WT.mc_id=academic-77952-leestott) deneyin.
 
 ### Daha iyi bir yaklaşım
 
-Böyle tahminlerle çözmekten daha iyi bir yol ise, indirilebilir [ML Kopya kağıdı](https://docs.microsoft.com/azure/machine-learning/algorithm-cheat-sheet?WT.mc_id=academic-15963-cxa) içindeki fikirlere bakmaktır. Burada, bizim çok sınıflı problemimiz için bazı seçenekler olduğunu görüyoruz:
+Böyle tahminlerle çözmekten daha iyi bir yol ise, indirilebilir [ML Kopya kağıdı](https://docs.microsoft.com/azure/machine-learning/algorithm-cheat-sheet?WT.mc_id=academic-77952-leestott) içindeki fikirlere bakmaktır. Burada, bizim çok sınıflı problemimiz için bazı seçenekler olduğunu görüyoruz:
 
 ![çok sınıflı problemler için kopya kağıdı](../images/cheatsheet.png)
 > Microsoft'un Algoritma Kopya Kağıdı'ndan, çok sınıflı sınıflandırma seçeneklerini detaylandıran bir bölüm
@@ -231,7 +231,7 @@ X_train, X_test, y_train, y_test = train_test_split(cuisines_feature_df, cuisine
 
 Bu derste, bir grup malzemeyi baz alarak bir ulusal mutfağı öngörebilen bir makine öğrenimi modeli oluşturmak için temiz verinizi kullandınız. Scikit-learn'ün veri sınıflandırmak için sağladığı birçok yöntemi okumak için biraz vakit ayırın. Arka tarafta neler olduğunu anlamak için 'çözücü' kavramını derinlemesine inceleyin.
 
-## [Ders sonrası kısa sınavı](https://white-water-09ec41f0f.azurestaticapps.net/quiz/22/?loc=tr)
+## [Ders sonrası kısa sınavı](https://gray-sand-07a10f403.1.azurestaticapps.net/quiz/22/?loc=tr)
 
 ## Gözden geçirme & kendi kendine çalışma
 

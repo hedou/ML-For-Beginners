@@ -4,7 +4,7 @@ In this lesson, you will use the dataset you saved from the last lesson full of 
 
 You will use this dataset with a variety of classifiers to _predict a given national cuisine based on a group of ingredients_. While doing so, you'll learn more about some of the ways that algorithms can be leveraged for classification tasks.
 
-## [Pre-lecture quiz](https://white-water-09ec41f0f.azurestaticapps.net/quiz/21/)
+## [Pre-lecture quiz](https://gray-sand-07a10f403.1.azurestaticapps.net/quiz/21/)
 # Preparation
 
 Assuming you completed [Lesson 1](../1-Introduction/README.md), make sure that a _cleaned_cuisines.csv_ file exists in the root `/data` folder for these four lessons.
@@ -15,7 +15,7 @@ Assuming you completed [Lesson 1](../1-Introduction/README.md), make sure that a
 
     ```python
     import pandas as pd
-    cuisines_df = pd.read_csv("../../data/cleaned_cuisines.csv")
+    cuisines_df = pd.read_csv("../data/cleaned_cuisines.csv")
     cuisines_df.head()
     ```
 
@@ -101,11 +101,11 @@ So, which classifier should you choose? Often, running through several and looki
 ![comparison of classifiers](images/comparison.png)
 > Plots generated on Scikit-learn's documentation
 
-> AutoML solves this problem neatly by running these comparisons in the cloud, allowing you to choose the best algorithm for your data. Try it [here](https://docs.microsoft.com/learn/modules/automate-model-selection-with-azure-automl/?WT.mc_id=academic-15963-cxa)
+> AutoML solves this problem neatly by running these comparisons in the cloud, allowing you to choose the best algorithm for your data. Try it [here](https://docs.microsoft.com/learn/modules/automate-model-selection-with-azure-automl/?WT.mc_id=academic-77952-leestott)
 
 ### A better approach
 
-A better way than wildly guessing, however, is to follow the ideas on this downloadable [ML Cheat sheet](https://docs.microsoft.com/azure/machine-learning/algorithm-cheat-sheet?WT.mc_id=academic-15963-cxa). Here, we discover that, for our multiclass problem, we have some choices:
+A better way than wildly guessing, however, is to follow the ideas on this downloadable [ML Cheat sheet](https://docs.microsoft.com/azure/machine-learning/algorithm-cheat-sheet?WT.mc_id=academic-77952-leestott). Here, we discover that, for our multiclass problem, we have some choices:
 
 ![cheatsheet for multiclass problems](images/cheatsheet.png)
 > A section of Microsoft's Algorithm Cheat Sheet, detailing multiclass classification options
@@ -231,7 +231,7 @@ Since you are using the multiclass case, you need to choose what _scheme_ to use
 
 In this lesson, you used your cleaned data to build a machine learning model that can predict a national cuisine based on a series of ingredients. Take some time to read through the many options Scikit-learn provides to classify data. Dig deeper into the concept of 'solver' to understand what goes on behind the scenes.
 
-## [Post-lecture quiz](https://white-water-09ec41f0f.azurestaticapps.net/quiz/22/)
+## [Post-lecture quiz](https://gray-sand-07a10f403.1.azurestaticapps.net/quiz/22/)
 
 ## Review & Self Study
 

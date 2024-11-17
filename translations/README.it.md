@@ -38,7 +38,7 @@ Gira il mondo insieme a noi mentre applichiamo queste classiche tecniche ai dati
 - Completate il compito.
 - Dopo il completamento di un gruppo di lezioni, visitate il  [Forum di discussione](https://github.com/microsoft/ML-For-Beginners/discussions) e "learn out load" (imparare ad alta voce) riempiendo la rubrica Pat appropriata. 'PAT' è uno strumento di valutazione dei progressi che consiste in una rubrica da compilare per promuovere il proprio apprendimento. Si può anche interagire in altri PAT in modo da imparare assieme.
 
-> Per ulteriori approfondimenti, si raccomanda di sequire i seguenti moduli e percorsi di apprendimento [Microsoft Learn](https://docs.microsoft.com/en-us/users/jenlooper-2911/collections/k7o7tg1gp306q4?WT.mc_id=academic-15963-cxa).
+> Per ulteriori approfondimenti, si raccomanda di sequire i seguenti moduli e percorsi di apprendimento [Microsoft Learn](https://docs.microsoft.com/en-us/users/jenlooper-2911/collections/k7o7tg1gp306q4?WT.mc_id=academic-77952-leestott).
 
 **Insegnanti**, sono stati [inclusi alcuni suggerimenti](for-teachers.md) su come usare questo programma di studi.
 
@@ -73,7 +73,7 @@ Assicurandosi che il contenuto si allinei con i progetti, il processo è reso pi
 - un compito
 - un quiz post-lezione
 
-> **Una nota sui quiz**: Tutti i quiz sono contenuti [in questa app](https://white-water-09ec41f0f.azurestaticapps.net/), per un totale di 50 quiz con tre domande ciascuno. I link ai quiz sono presenti all'interno delle lezioni ma l'app può essere eseguita in locale seguendo le istruzioni contenute nella cartella `quiz-app`.
+> **Una nota sui quiz**: Tutti i quiz sono contenuti [in questa app](https://gray-sand-07a10f403.1.azurestaticapps.net/), per un totale di 50 quiz con tre domande ciascuno. I link ai quiz sono presenti all'interno delle lezioni ma l'app può essere eseguita in locale seguendo le istruzioni contenute nella cartella `quiz-app`.
 
 | Numero Lezione |                           Argomento                            |                   Gruppo Lezioni                   | Obiettivi di Apprendimento                                                                                                             |                     Lezioni Collegate                     |     Autore     |
 | :-----------: | :--------------------------------------------------------: | :-------------------------------------------------: | ------------------------------------------------------------------------------------------------------------------------------- | :---------------------------------------------------: | :------------: |

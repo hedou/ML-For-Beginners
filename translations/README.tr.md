@@ -35,7 +35,7 @@ Biz bu klasik teknikleri dünyanın birçok alanından verilere uygularken bizim
 - Ödevi tamamlayın
 - Bir ders grubunu tamamladıktan sonra, [Tartışma Panosu](https://github.com/microsoft/ML-For-Beginners/discussions)'nu ziyaret edin ve uygun PAT yönergesini doldurarak "sesli öğrenin" (Yani, tamamen öğrenmeden önce öğrenme süreciniz üzerine derin düşünerek içgözlem ve geridönütlerle kendinizde farkındalık oluşturun.). 'PAT', bir Progress Assessment Tool'dur (Süreç Değerlendirme Aracı), öğrenmenizi daha ileriye taşımak için doldurduğunuz bir yönergedir. Diğer PAT'lere de karşılık verebilirsiniz, böylece beraber öğrenebiliriz.
 
-> İleri çalışma için, bu [Microsoft Learn](https://docs.microsoft.com/en-us/users/jenlooper-2911/collections/k7o7tg1gp306q4?WT.mc_id=academic-15963-cxa) modüllerini ve öğrenme rotalarını takip etmenizi tavsiye ediyoruz.
+> İleri çalışma için, bu [Microsoft Learn](https://docs.microsoft.com/en-us/users/jenlooper-2911/collections/k7o7tg1gp306q4?WT.mc_id=academic-77952-leestott) modüllerini ve öğrenme rotalarını takip etmenizi tavsiye ediyoruz.
 
 **Öğretmenler**, bu eğitim programının nasıl kullanılacağı hakkında [bazı öneriler ekledik](../for-teachers.md).
 
@@ -68,7 +68,7 @@ Bu eğitim programını oluştururken iki pedagojik ilke seçtik: uygulamalı **
 - ödev
 - ders sonrası kısa sınavı
 
-> **Kısa sınavlar hakkında bir not**: Her biri üç sorudan oluşan ve toplamda 50 tane olan tüm kısa sınavlar [bu uygulamada](https://white-water-09ec41f0f.azurestaticapps.net/) bulunmaktadır. Derslerin içinden de bağlantı yoluyla ulaşılabilirler ancak kısa sınav uygulaması yerelde çalıştırılabilir; `quiz-app` klasöründeki yönergeleri takip edin.
+> **Kısa sınavlar hakkında bir not**: Her biri üç sorudan oluşan ve toplamda 50 tane olan tüm kısa sınavlar [bu uygulamada](https://gray-sand-07a10f403.1.azurestaticapps.net/) bulunmaktadır. Derslerin içinden de bağlantı yoluyla ulaşılabilirler ancak kısa sınav uygulaması yerelde çalıştırılabilir; `quiz-app` klasöründeki yönergeleri takip edin.
 
 
 | Ders Numarası |                           Konu                             |                     Ders Gruplandırması                     |  Öğrenme Hedefleri                                                                                                              |                         Ders                          |     Yazar      |

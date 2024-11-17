@@ -38,7 +38,7 @@ Microsoft의 Azure Cloud Advocates는 **Machine Learning**에 대한 모든 12-�
 - 과제를 끝내봅니다.
 - 강의 그룹을 끝내면, [Discussion board](https://github.com/microsoft/ML-For-Beginners/discussions)를 방문하고 적절한 PAT rubric를 채워서 "learn out loud" 합니다. 'PAT'은 심화적으로 배우려고 작성하는 rubric인 Progress Assessment 도구 입니다. 같이 배울 수 있게 다른 PAT으로도 할 수 있습니다.
 
-> 더 배우기 위해서, [Microsoft Learn](https://docs.microsoft.com/en-us/users/jenlooper-2911/collections/k7o7tg1gp306q4?WT.mc_id=academic-15963-cxa) 모듈과 학습 경로를 따르는 것을 추천합니다.
+> 더 배우기 위해서, [Microsoft Learn](https://docs.microsoft.com/en-us/users/jenlooper-2911/collections/k7o7tg1gp306q4?WT.mc_id=academic-77952-leestott) 모듈과 학습 경로를 따르는 것을 추천합니다.
 
 **선생님**은, 이 커리큘럼의 사용 방법에 대해 [일부 제안사항](../for-teachers.md)이 있습니다.
 
@@ -73,7 +73,7 @@ Microsoft의 Azure Cloud Advocates는 **Machine Learning**에 대한 모든 12-�
 - 과제
 - 강의 후 퀴즈
 
-> **퀴즈 참고사항**: 모든 퀴즈는 [이 앱](https://white-water-09ec41f0f.azurestaticapps.net/)에 포함되어 있으며, 각각 3문제씩 총 50개의 퀴즈가 있습니다. 퀴즈 앱은 교육 과정과 연결되어 있지만, 원하는 경우 따로 퀴즈 앱을 실행할 수도 있습니다. 자세한 사항은 퀴즈 앱 폴더 내의 지침을 따르십시오.
+> **퀴즈 참고사항**: 모든 퀴즈는 [이 앱](https://gray-sand-07a10f403.1.azurestaticapps.net/)에 포함되어 있으며, 각각 3문제씩 총 50개의 퀴즈가 있습니다. 퀴즈 앱은 교육 과정과 연결되어 있지만, 원하는 경우 따로 퀴즈 앱을 실행할 수도 있습니다. 자세한 사항은 퀴즈 앱 폴더 내의 지침을 따르십시오.
 
 
 | 강의 번호 |                           토픽                            |                   강의 그룹                   | 학습 목표                                                                                                             |                     연결 강의                     |     저자     |

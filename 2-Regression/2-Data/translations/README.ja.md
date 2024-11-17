@@ -4,7 +4,7 @@
 > 
 > [Dasani Madipalli](https://twitter.com/dasani_decoded) によるインフォグラフィック
 
-## [講義前のクイズ](https://white-water-09ec41f0f.azurestaticapps.net/quiz/11?loc=ja)
+## [講義前のクイズ](https://gray-sand-07a10f403.1.azurestaticapps.net/quiz/11?loc=ja)
 
 ## イントロダクション
 
@@ -146,7 +146,7 @@ Visual Studio Codeで _notebook.ipynb_ ファイルを開き、スプレッド�
 
 Jupyter notebookでうまく利用できるテータ可視化ライブラリの一つに [Matplotlib](https://matplotlib.org/) があります (前のレッスンでも紹介しています)。
 
-> [こちらのチュートリアル](https://docs.microsoft.com/learn/modules/explore-analyze-data-with-python?WT.mc_id=academic-15963-cxa) でデータの可視化ついてより深く体験することができます。
+> [こちらのチュートリアル](https://docs.microsoft.com/learn/modules/explore-analyze-data-with-python?WT.mc_id=academic-77952-leestott) でデータの可視化ついてより深く体験することができます。
 
 ## エクササイズ - Matplotlibの実験
 
@@ -195,7 +195,7 @@ Jupyter notebookでうまく利用できるテータ可視化ライブラリの�
 
 Matplotlibが提供する様々なタイプのビジュアライゼーションを探ってみましょう。回帰の問題にはどのタイプが最も適しているでしょうか？
 
-## [講義後クイズ](https://white-water-09ec41f0f.azurestaticapps.net/quiz/12?loc=ja)
+## [講義後クイズ](https://gray-sand-07a10f403.1.azurestaticapps.net/quiz/12?loc=ja)
 
 ## レビュー & 自主学習
 

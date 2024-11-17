@@ -14,7 +14,7 @@ output:
 
 In this second classification lesson, we will explore `more ways` to classify categorical data. We will also learn about the ramifications for choosing one classifier over the other.
 
-### [**Pre-lecture quiz**](https://white-water-09ec41f0f.azurestaticapps.net/quiz/23/)
+### [**Pre-lecture quiz**](https://gray-sand-07a10f403.1.azurestaticapps.net/quiz/23/)
 
 ### **Prerequisite**
 
@@ -433,11 +433,11 @@ To find out more about a particular model and its parameters, use: `help("model"
 
 > In practice, we usually *estimate* the *best values* for these by training many models on a `simulated data set` and measuring how well all these models perform. This process is called **tuning**.
 
-### [**Post-lecture quiz**](https://white-water-09ec41f0f.azurestaticapps.net/quiz/24/)
+### [**Post-lecture quiz**](https://gray-sand-07a10f403.1.azurestaticapps.net/quiz/24/)
 
 ### **Review & Self Study**
 
-There's a lot of jargon in these lessons, so take a minute to review [this list](https://docs.microsoft.com/dotnet/machine-learning/resources/glossary?WT.mc_id=academic-15963-cxa) of useful terminology!
+There's a lot of jargon in these lessons, so take a minute to review [this list](https://docs.microsoft.com/dotnet/machine-learning/resources/glossary?WT.mc_id=academic-77952-leestott) of useful terminology!
 
 #### THANK YOU TO:
 

@@ -2,7 +2,7 @@
 
 Esta aula cobre uma breve história, bem como conceitos importantes do *processamento de linguagem natural*, uma subárea da *Linguística computacional*.
 
-## [Teste pré-aula](https://white-water-09ec41f0f.azurestaticapps.net/quiz/31?loc=ptbr)
+## [Teste pré-aula](https://gray-sand-07a10f403.1.azurestaticapps.net/quiz/31?loc=ptbr)
 
 ## Introdução
 
@@ -55,7 +55,7 @@ Nesta seção, você vai precisar:
    python -m textblob.download_corpora
    ```
 
-> 💡 Dica: Você pode rodar Python diretamente nos ambientes (environments) do VS Code. Veja a [documentação](https://code.visualstudio.com/docs/languages/python?WT.mc_id=academic-15963-cxa) para mais informações.
+> 💡 Dica: Você pode rodar Python diretamente nos ambientes (environments) do VS Code. Veja a [documentação](https://code.visualstudio.com/docs/languages/python?WT.mc_id=academic-77952-leestott) para mais informações.
 
 ## Falando com máquinas
 
@@ -157,7 +157,7 @@ Escolha um dos elementos do "pare e considere" acima e tente implementá-lo em c
 
 Na próxima aula, você irá aprender sobre algumas outras abordagens de análise sintática de linguagem natural e de aprendizado de máquina.
 
-## [Teste pós-aula](https://white-water-09ec41f0f.azurestaticapps.net/quiz/32?loc=ptbr)
+## [Teste pós-aula](https://gray-sand-07a10f403.1.azurestaticapps.net/quiz/32?loc=ptbr)
 
 ## Revisão & Autoestudo
 

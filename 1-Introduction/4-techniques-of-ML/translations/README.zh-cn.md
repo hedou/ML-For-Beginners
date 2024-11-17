@@ -6,7 +6,7 @@
 - 在高层次上理解支持机器学习的过程。 
 - 探索基本概念，例如“模型”、“预测”和“训练数据”。 
   
-## [课前测验](https://white-water-09ec41f0f.azurestaticapps.net/quiz/7/)
+## [课前测验](https://gray-sand-07a10f403.1.azurestaticapps.net/quiz/7/)
 ## 介绍
 
 在较高的层次上，创建机器学习（ML）过程的工艺包括许多步骤：
@@ -25,7 +25,7 @@
 
 然而，当将许多其他变量纳入等式时，ML模型可能会更有效地根据过去的健康史预测未来的死亡率。一个更令人愉快的例子可能是根据包括纬度、经度、气候变化、与海洋的接近程度、急流模式等在内的数据对给定位置的4月份进行天气预报。 
 
-✅ 这个关于天气模型的[幻灯片](https://www2.cisl.ucar.edu/sites/default/files/0900%20June%2024%20Haupt_0.pdf)为在天气分析中使用机器学习提供了一个历史视角。
+✅ 这个关于天气模型的[幻灯片](https://www2.cisl.ucar.edu/sites/default/files/2021-10/0900%20June%2024%20Haupt_0.pdf)为在天气分析中使用机器学习提供了一个历史视角。
 
 ## 预构建任务
 
@@ -87,7 +87,7 @@
 
 ## 参数调优 
 
-初始训练完成后，观察模型的质量并考虑通过调整其“超参数”来改进它。[在此文档中](https://docs.microsoft.com/en-us/azure/machine-learning/how-to-tune-hyperparameters?WT.mc_id=academic-15963-cxa)阅读有关该过程的更多信息。
+初始训练完成后，观察模型的质量并考虑通过调整其“超参数”来改进它。[在此文档中](https://docs.microsoft.com/en-us/azure/machine-learning/how-to-tune-hyperparameters?WT.mc_id=academic-77952-leestott)阅读有关该过程的更多信息。
 
 ## 预测
 
@@ -101,7 +101,7 @@
 
 画一个流程图，反映ML的步骤。在这个过程中，你认为自己现在在哪里？你预测你在哪里会遇到困难？什么对你来说很容易？ 
 
-## [阅读后测验](https://white-water-09ec41f0f.azurestaticapps.net/quiz/8/)
+## [阅读后测验](https://gray-sand-07a10f403.1.azurestaticapps.net/quiz/8/)
 
 ## 复习与自学 
 

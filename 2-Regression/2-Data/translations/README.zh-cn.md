@@ -3,7 +3,7 @@
 ![数据可视化信息图](../images/data-visualization.png)
 > 作者 [Dasani Madipalli](https://twitter.com/dasani_decoded)
 
-## [课前测](https://white-water-09ec41f0f.azurestaticapps.net/quiz/11/)
+## [课前测](https://gray-sand-07a10f403.1.azurestaticapps.net/quiz/11/)
 
 ## 介绍
 
@@ -142,7 +142,7 @@
 
 一个在 Jupyter notebooks 中运行良好的数据可视化库是 [Matplotlib](https://matplotlib.org/)（你在上一课中也看到过）。
 
-> 在[这些教程](https://docs.microsoft.com/learn/modules/explore-analyze-data-with-python?WT.mc_id=academic-15963-cxa)中获得更多数据可视化经验。
+> 在[这些教程](https://docs.microsoft.com/learn/modules/explore-analyze-data-with-python?WT.mc_id=academic-77952-leestott)中获得更多数据可视化经验。
 
 ## 练习 - 使用 Matplotlib 进行实验
 
@@ -192,7 +192,7 @@
 
 探索 Matplotlib 提供的不同类型的可视化。哪种类型最适合回归问题？
 
-## [课后测](https://white-water-09ec41f0f.azurestaticapps.net/quiz/12/)
+## [课后测](https://gray-sand-07a10f403.1.azurestaticapps.net/quiz/12/)
 
 ## 复习与自学
 

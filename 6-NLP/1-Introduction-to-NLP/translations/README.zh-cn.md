@@ -1,7 +1,7 @@
 # 自然语言处理介绍
 这节课讲解了 *自然语言处理* 的简要历史和重要概念，*自然语言处理*是计算语言学的一个子领域。
 
-## [课前测验](https://white-water-09ec41f0f.azurestaticapps.net/quiz/31/)
+## [课前测验](https://gray-sand-07a10f403.1.azurestaticapps.net/quiz/31/)
 
 ## 介绍
 众所周知，自然语言处理（Natural Language Processing, NLP）是机器学习在生产软件中应用最广泛的领域之一。
@@ -49,7 +49,7 @@
    python -m textblob.download_corpora
    ```
 
-> 💡 提示：你可以在 VS Code 环境中直接运行 Python。 点击 [文档](https://code.visualstudio.com/docs/languages/python?WT.mc_id=academic-15963-cxa) 查看更多信息。
+> 💡 提示：你可以在 VS Code 环境中直接运行 Python。 点击 [文档](https://code.visualstudio.com/docs/languages/python?WT.mc_id=academic-77952-leestott) 查看更多信息。
 
 ## 与机器对话
 
@@ -147,7 +147,7 @@
 
 在下一课中，您将了解解析自然语言和机器学习的许多其他方法。
 
-## [课后测验](https://white-water-09ec41f0f.azurestaticapps.net/quiz/32/)
+## [课后测验](https://gray-sand-07a10f403.1.azurestaticapps.net/quiz/32/)
 
 ## 复习与自学
 

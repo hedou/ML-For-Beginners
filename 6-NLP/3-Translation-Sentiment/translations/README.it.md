@@ -2,7 +2,7 @@
 
 Nelle lezioni precedenti si è imparato come creare un bot di base utilizzando `TextBlob`, una libreria che incorpora machine learning dietro le quinte per eseguire attività di base di NPL come l'estrazione di frasi nominali. Un'altra sfida importante nella linguistica computazionale è _la traduzione_ accurata di una frase da una lingua parlata o scritta a un'altra.
 
-## [Quiz pre-lezione](https://white-water-09ec41f0f.azurestaticapps.net/quiz/35/?loc=it)
+## [Quiz pre-lezione](https://gray-sand-07a10f403.1.azurestaticapps.net/quiz/35/?loc=it)
 
 La traduzione è un problema molto difficile, aggravato dal fatto che ci sono migliaia di lingue e ognuna può avere regole grammaticali molto diverse. Un approccio consiste nel convertire le regole grammaticali formali per una lingua, come l'inglese, in una struttura non dipendente dalla lingua e quindi tradurla convertendola in un'altra lingua. Questo approccio significa che si dovrebbero eseguire i seguenti passaggi:
 
@@ -176,11 +176,11 @@ Ecco una [soluzione](../solution/notebook.ipynb) di esempio.
 
 Si può rendere Marvin ancora migliore estraendo altre funzionalità dall'input dell'utente?
 
-## [Quiz post-lezione](https://white-water-09ec41f0f.azurestaticapps.net/quiz/36/?loc=it)
+## [Quiz post-lezione](https://gray-sand-07a10f403.1.azurestaticapps.net/quiz/36/?loc=it)
 
 ## Revisione e Auto Apprendimento
 
-Esistono molti modi per estrarre il sentiment dal testo. Si pensi alle applicazioni aziendali che potrebbero utilizzare questa tecnica. Pensare a cosa potrebbe andare storto. Ulteriori informazioni sui sistemi sofisticati pronti per l'azienda che analizzano il sentiment come l'[analisi del testo di Azure](https://docs.microsoft.com/azure/cognitive-services/Text-Analytics/how-tos/text-analytics-how-to-sentiment-analysis?tabs=version-3-1?WT.mc_id=academic-15963-cxa). Provare alcune delle frasi di Orgoglio e Pregiudizio sopra e vedere se può rilevare sfumature.
+Esistono molti modi per estrarre il sentiment dal testo. Si pensi alle applicazioni aziendali che potrebbero utilizzare questa tecnica. Pensare a cosa potrebbe andare storto. Ulteriori informazioni sui sistemi sofisticati pronti per l'azienda che analizzano il sentiment come l'[analisi del testo di Azure](https://docs.microsoft.com/azure/cognitive-services/Text-Analytics/how-tos/text-analytics-how-to-sentiment-analysis?tabs=version-3-1?WT.mc_id=academic-77952-leestott). Provare alcune delle frasi di Orgoglio e Pregiudizio sopra e vedere se può rilevare sfumature.
 
 ## Compito
 

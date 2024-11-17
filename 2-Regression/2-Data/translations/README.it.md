@@ -3,7 +3,7 @@
 > ![Infografica sulla visualizzazione dei dati](../images/data-visualization.png)
 > Infografica di [Dasani Madipalli](https://twitter.com/dasani_decoded)
 
-## [Quiz pre-lezione](https://white-water-09ec41f0f.azurestaticapps.net/quiz/11/?loc=it)
+## [Quiz pre-lezione](https://gray-sand-07a10f403.1.azurestaticapps.net/quiz/11/?loc=it)
 
 ## Introduzione
 
@@ -141,7 +141,7 @@ Le visualizzazioni possono anche aiutare a determinare la tecnica di machine lea
 
 Una libreria di visualizzazione dei dati che funziona bene nei notebook Jupyter è [Matplotlib](https://matplotlib.org/) (che si è visto anche nella lezione precedente).
 
-> Per fare più esperienza con la visualizzazione dei dati si seguano [questi tutorial](https://docs.microsoft.com/learn/modules/explore-analyze-data-with-python?WT.mc_id=academic-15963-cxa).
+> Per fare più esperienza con la visualizzazione dei dati si seguano [questi tutorial](https://docs.microsoft.com/learn/modules/explore-analyze-data-with-python?WT.mc_id=academic-77952-leestott).
 
 ## Esercizio - sperimentare con Matplotlib
 
@@ -190,7 +190,7 @@ Per fare in modo che i grafici mostrino dati utili, di solito è necessario ragg
 
 Esplorare i diversi tipi di visualizzazione offerti da Matplotlib. Quali tipi sono più appropriati per i problemi di regressione?
 
-## [Quiz post-lezione](https://white-water-09ec41f0f.azurestaticapps.net/quiz/12/?loc=it)
+## [Quiz post-lezione](https://gray-sand-07a10f403.1.azurestaticapps.net/quiz/12/?loc=it)
 
 ## Revisione e Auto Apprendimento
 

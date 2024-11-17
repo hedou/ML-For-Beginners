@@ -2,7 +2,7 @@
 
 이 강의애서 *computational linguistics* 하위인, *natural language processing*의 간단한 역사와 중요 컨셉을 다룹니다.
 
-## [강의 전 퀴즈](https://white-water-09ec41f0f.azurestaticapps.net/quiz/31/)
+## [강의 전 퀴즈](https://gray-sand-07a10f403.1.azurestaticapps.net/quiz/31/)
 
 ## 소개
 
@@ -51,7 +51,7 @@
    python -m textblob.download_corpora
    ```
 
-> 💡 팁: VS Code 환경에서 Python을 바로 실행할 수 있습니다. [docs](https://code.visualstudio.com/docs/languages/python?WT.mc_id=academic-15963-cxa)으로 정보를 더 확인합니다.
+> 💡 팁: VS Code 환경에서 Python을 바로 실행할 수 있습니다. [docs](https://code.visualstudio.com/docs/languages/python?WT.mc_id=academic-77952-leestott)으로 정보를 더 확인합니다.
 
 ## 기계와 대화하기
 
@@ -149,7 +149,7 @@ Eliza와 같은, 대화 봇은, 사용자 입력을 유도해서 지능적으로
 
 다음 강의에서, natural language와 머신러닝을 분석하는 여러 다른 접근 방식에 대해 배울 예정입니다.
 
-## [강의 후 퀴즈](https://white-water-09ec41f0f.azurestaticapps.net/quiz/32/)
+## [강의 후 퀴즈](https://gray-sand-07a10f403.1.azurestaticapps.net/quiz/32/)
 
 ## 검토 & 자기주도 학습
 

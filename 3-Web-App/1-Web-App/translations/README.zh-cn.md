@@ -11,7 +11,7 @@
 
 为此，你需要使用 Flask 构建一个 web 应用程序。
 
-## [课前测](https://white-water-09ec41f0f.azurestaticapps.net/quiz/17/)
+## [课前测](https://gray-sand-07a10f403.1.azurestaticapps.net/quiz/17/)
 
 ## 构建应用程序
 
@@ -27,7 +27,7 @@
 - **使用什么技术来训练模型？** 所选的技术可能会影响你需要使用的工具。
    - **使用 TensorFlow**。例如，如果你正在使用 TensorFlow 训练模型，则该生态系统提供了使用 [TensorFlow.js](https://www.tensorflow.org/js/) 转换 TensorFlow 模型以便在Web应用程序中使用的能力。
    - **使用 PyTorch**。如果你使用 [PyTorch](https://pytorch.org/) 等库构建模型，则可以选择将其导出到 [ONNX](https://onnx.ai/)（开放神经网络交换）格式，用于可以使用 [Onnx Runtime](https://www.onnxruntime.ai/)的JavaScript Web 应用程序。此选项将在 Scikit-learn-trained 模型的未来课程中进行探讨。
-   - **使用 Lobe.ai 或 Azure 自定义视觉**。如果你使用 ML SaaS（软件即服务）系统，例如 [Lobe.ai](https://lobe.ai/) 或 [Azure Custom Vision](https://azure.microsoft.com/services/cognitive-services/custom-vision-service/?WT.mc_id=academic-15963-cxa) 来训练模型，这种类型的软件提供了为许多平台导出模型的方法，包括构建一个定制A PI，供在线应用程序在云中查询。
+   - **使用 Lobe.ai 或 Azure 自定义视觉**。如果你使用 ML SaaS（软件即服务）系统，例如 [Lobe.ai](https://lobe.ai/) 或 [Azure Custom Vision](https://azure.microsoft.com/services/cognitive-services/custom-vision-service/?WT.mc_id=academic-77952-leestott) 来训练模型，这种类型的软件提供了为许多平台导出模型的方法，包括构建一个定制A PI，供在线应用程序在云中查询。
 
 你还有机会构建一个完整的 Flask Web 应用程序，该应用程序能够在 Web浏览器中训练模型本身。这也可以在 JavaScript 上下文中使用 TensorFlow.js 来完成。
 
@@ -37,7 +37,7 @@
 
 对于此任务，你需要两个工具：Flask 和 Pickle，它们都在 Python 上运行。
 
-✅ 什么是 [Flask](https://palletsprojects.com/p/flask/)？ Flask 被其创建者定义为“微框架”，它提供了使用 Python 和模板引擎构建网页的 Web 框架的基本功能。看看[本学习单元](https://docs.microsoft.com/learn/modules/python-flask-build-ai-web-app?WT.mc_id=academic-15963-cxa)练习使用 Flask 构建应用程序。
+✅ 什么是 [Flask](https://palletsprojects.com/p/flask/)？ Flask 被其创建者定义为“微框架”，它提供了使用 Python 和模板引擎构建网页的 Web 框架的基本功能。看看[本学习单元](https://docs.microsoft.com/learn/modules/python-flask-build-ai-web-app?WT.mc_id=academic-77952-leestott)练习使用 Flask 构建应用程序。
 
 ✅ 什么是 [Pickle](https://docs.python.org/3/library/pickle.html)？ Pickle🥒是一个 Python 模块，用于序列化和反序列化 Python 对象结构。当你“pickle”一个模型时，你将其结构序列化或展平以在 Web 上使用。小心：pickle 本质上不是安全的，所以如果提示“un-pickle”文件，请小心。生产的文件具有后缀 `.pkl`。
 
@@ -334,7 +334,7 @@ print(model.predict([[50,44,-12]]))
 
 你可以在 Flask 应用程序中训练模型，而不是在 notebook 上工作并将模型导入 Flask 应用程序！尝试在 notebook 中转换 Python 代码，可能是在清除数据之后，从应用程序中的一个名为 `train` 的路径训练模型。采用这种方法的利弊是什么？
 
-## [课后测](https://white-water-09ec41f0f.azurestaticapps.net/quiz/18/)
+## [课后测](https://gray-sand-07a10f403.1.azurestaticapps.net/quiz/18/)
 
 ## 复习与自学
 
@@ -342,6 +342,6 @@ print(model.predict([[50,44,-12]]))
 
 ## 任务
 
-[尝试不同的模型](../assignment.md)
+[尝试不同的模型](./assignment.zh-cn.md)
 
 

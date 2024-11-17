@@ -5,7 +5,7 @@ Il processo di creazione, utilizzo e mantenimento dei modelli di machine learnin
 - Comprendere i processi ad alto livello alla base di machine learning.
 - Esplorare concetti di base come "modelli", "previsioni" e "dati di addestramento".
 
-## [Quiz pre-lezione](https://white-water-09ec41f0f.azurestaticapps.net/quiz/7/?loc=it)
+## [Quiz pre-lezione](https://gray-sand-07a10f403.1.azurestaticapps.net/quiz/7/?loc=it)
 
 ## Introduzione
 
@@ -25,7 +25,7 @@ I computer sono particolarmente abili nello scoprire modelli nascosti nei dati. 
 
 Quando molte altre variabili vengono introdotte nell'equazione, tuttavia, un modello ML potrebbe rivelarsi più efficiente per prevedere i tassi di mortalità futuri in base alla storia sanitaria passata. Un esempio più allegro potrebbe essere fare previsioni meteorologiche per il mese di aprile in una determinata località sulla base di dati che includono latitudine, longitudine, cambiamento climatico, vicinanza all'oceano, modelli della corrente a getto e altro ancora.
 
-✅ Questa [presentazione](https://www2.cisl.ucar.edu/sites/default/files/0900%20June%2024%20Haupt_0.pdf) sui modelli meteorologici offre una prospettiva storica per l'utilizzo di ML nell'analisi meteorologica.
+✅ Questa [presentazione](https://www2.cisl.ucar.edu/sites/default/files/2021-10/0900%20June%2024%20Haupt_0.pdf) sui modelli meteorologici offre una prospettiva storica per l'utilizzo di ML nell'analisi meteorologica.
 
 ## Attività di pre-costruzione
 
@@ -89,7 +89,7 @@ Nel contesto di machine learning, l'adattamento del modello si riferisce all'acc
 
 ## Sintonia dei parametri
 
-Una volta completato l'addestramento iniziale, si osservi la qualità del modello e si valuti di migliorarlo modificando i suoi "iperparametri". Maggiori informazioni sul processo [nella documentazione](https://docs.microsoft.com/en-us/azure/machine-learning/how-to-tune-hyperparameters?WT.mc_id=academic-15963-cxa).
+Una volta completato l'addestramento iniziale, si osservi la qualità del modello e si valuti di migliorarlo modificando i suoi "iperparametri". Maggiori informazioni sul processo [nella documentazione](https://docs.microsoft.com/en-us/azure/machine-learning/how-to-tune-hyperparameters?WT.mc_id=academic-77952-leestott).
 
 ## Previsione
 
@@ -103,7 +103,7 @@ In queste lezioni si scoprirà come utilizzare questi passaggi per preparare, co
 
 Disegnare un diagramma di flusso che rifletta i passaggi di un professionista di ML. Dove ci si vede in questo momento nel processo? Dove si prevede che sorgeranno difficoltà? Cosa sembra facile?
 
-## [Quiz post-lezione](https://white-water-09ec41f0f.azurestaticapps.net/quiz/8/?loc=it)
+## [Quiz post-lezione](https://gray-sand-07a10f403.1.azurestaticapps.net/quiz/8/?loc=it)
 
 ## Revisione e Auto Apprendimento
 

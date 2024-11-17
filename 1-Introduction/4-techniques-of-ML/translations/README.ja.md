@@ -5,7 +5,7 @@
 - 機械学習を支えるプロセスを高い水準で理解します。
 - 「モデル」「予測」「訓練データ」などの基本的な概念を調べます。
 
-## [講義前の小テスト](https://white-water-09ec41f0f.azurestaticapps.net/quiz/7?loc=ja)
+## [講義前の小テスト](https://gray-sand-07a10f403.1.azurestaticapps.net/quiz/7?loc=ja)
 
 ## 導入
 
@@ -25,7 +25,7 @@
 
 しかし、他にも多くの変数が方程式に含まれる場合、過去の健康状態から将来の死亡率を予測する機械学習モデルの方が効率的かもしれません。もっと明るいテーマの例としては、緯度、経度、気候変動、海への近さ、ジェット気流のパターンなどのデータに基づいて、特定の場所における4月の天気を予測することができます。
 
-✅ 気象モデルに関するこの [スライド](https://www2.cisl.ucar.edu/sites/default/files/0900%20June%2024%20Haupt_0.pdf) は、気象解析に機械学習を使う際の歴史的な考え方を示しています。
+✅ 気象モデルに関するこの [スライド](https://www2.cisl.ucar.edu/sites/default/files/2021-10/0900%20June%2024%20Haupt_0.pdf) は、気象解析に機械学習を使う際の歴史的な考え方を示しています。
 
 ## 構築前のタスク
 
@@ -89,7 +89,7 @@
 
 ## パラメータチューニング
 
-最初のトレーニングが完了したら、モデルの質を観察して、「ハイパーパラメータ」の調整によるモデルの改善を検討しましょう。このプロセスについては [ドキュメント](https://docs.microsoft.com/en-us/azure/machine-learning/how-to-tune-hyperparameters?WT.mc_id=academic-15963-cxa) を読んでください。
+最初のトレーニングが完了したら、モデルの質を観察して、「ハイパーパラメータ」の調整によるモデルの改善を検討しましょう。このプロセスについては [ドキュメント](https://docs.microsoft.com/en-us/azure/machine-learning/how-to-tune-hyperparameters?WT.mc_id=academic-77952-leestott) を読んでください。
 
 ## 予測
 
@@ -103,7 +103,7 @@
 
 機械学習の学習者のステップを反映したフローチャートを描いてください。今の自分はこのプロセスのどこにいると思いますか？どこに困難があると予想しますか？あなたにとって簡単そうなことは何ですか？
 
-## [講義後の小テスト](https://white-water-09ec41f0f.azurestaticapps.net/quiz/8?loc=ja)
+## [講義後の小テスト](https://gray-sand-07a10f403.1.azurestaticapps.net/quiz/8?loc=ja)
 
 ## 振り返りと自主学習
 

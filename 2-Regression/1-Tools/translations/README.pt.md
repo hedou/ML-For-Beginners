@@ -5,7 +5,7 @@
 
 > Sketchnote by [Tomomi Imura](https://www.twitter.com/girlie_mac)
 
-## [Questionário pré-palestra](https://white-water-09ec41f0f.azurestaticapps.net/quiz/9/)
+## [Questionário pré-palestra](https://gray-sand-07a10f403.1.azurestaticapps.net/quiz/9/)
 
 > ### [Esta lição está disponível em R!](./solution/R/lesson_1-R.ipynb)
 
@@ -28,14 +28,14 @@ Nesta lição, aprenderá a:
 
 > 🎥 Clique na imagem acima para um vídeo: utilizando Python dentro do Código VS.
 
-1. **Instalar Python**. Certifique-se de que [Python](https://www.python.org/downloads/) está instalado no seu computador. Você usará Python para muitas tarefas de ciência de dados e machine learning. A maioria dos sistemas informáticos já inclui uma instalação Python. Há úteis [Python Pacotes de codificação](https://code.visualstudio.com/learn/educators/installers?WT.mc_id=academic-15963-cxa) disponível também, para facilitar a configuração para alguns utilizadores.
+1. **Instalar Python**. Certifique-se de que [Python](https://www.python.org/downloads/) está instalado no seu computador. Você usará Python para muitas tarefas de ciência de dados e machine learning. A maioria dos sistemas informáticos já inclui uma instalação Python. Há úteis [Python Pacotes de codificação](https://code.visualstudio.com/learn/educators/installers?WT.mc_id=academic-77952-leestott) disponível também, para facilitar a configuração para alguns utilizadores.
 
   Alguns usos de Python, no entanto, requerem uma versão do software, enquanto outros requerem uma versão diferente. Por esta razão, é útil trabalhar dentro de um [ambiente virtual](https://docs.python.org/3/library/venv.html).
 
 2. **Instalar código de estúdio visual**. Certifique-se de que tem o Código do Estúdio Visual instalado no seu computador. Siga estas instruções para
-[instalar Código do Estúdio Visual](https://code.visualstudio.com/) para a instalação básica. Você vai usar Python em Código estúdio visual neste curso, então você pode querer relembrá-lo [configurar código de estúdio visual](https://docs.microsoft.com/learn/modules/python-install-vscode?WT.mc_id=academic-15963-cxa) para o desenvolvimento de Python.
+[instalar Código do Estúdio Visual](https://code.visualstudio.com/) para a instalação básica. Você vai usar Python em Código estúdio visual neste curso, então você pode querer relembrá-lo [configurar código de estúdio visual](https://docs.microsoft.com/learn/modules/python-install-vscode?WT.mc_id=academic-77952-leestott) para o desenvolvimento de Python.
 
-> Fique confortável com python trabalhando através desta coleção de [Aprender módulos](https://docs.microsoft.com/users/jenlooper-2911/collections/mp1pagggd5qrq7?WT.mc_id=academic-15963-cxa)
+> Fique confortável com python trabalhando através desta coleção de [Aprender módulos](https://docs.microsoft.com/users/jenlooper-2911/collections/mp1pagggd5qrq7?WT.mc_id=academic-77952-leestott)
 
 3. **Instale Scikit-learn**, seguindo [estas instruções]
 (https://scikit-learn.org/stable/install.html). Uma vez que precisa de garantir que utiliza o Python 3, recomenda-se que utilize um ambiente virtual. Note que se estiver a instalar esta biblioteca num Mac M1, existem instruções especiais na página acima ligada.
@@ -202,13 +202,13 @@ Parabéns, construíste o teu primeiro modelo linear de regressão, criaste uma 
 ## 🚀Challenge
 
 Defina uma variável diferente deste conjunto de dados. Dica: edite esta linha:`X = X[:, np.newaxis, 2]`. Tendo em conta o objetivo deste conjunto de dados, o que é que consegue descobrir sobre a progressão da diabetes como uma doença?
-## [Questionário pós-palestra](https://white-water-09ec41f0f.azurestaticapps.net/quiz/10/)
+## [Questionário pós-palestra](https://gray-sand-07a10f403.1.azurestaticapps.net/quiz/10/)
 
 ## Review & Self Study
 
 Neste tutorial, trabalhou com uma simples regressão linear, em vez de univariado ou regressão linear múltipla. Leia um pouco sobre as diferenças entre estes métodos, ou dê uma olhada[este vídeo](https://www.coursera.org/lecture/quantifying-relationships-regression-models/linear-vs-nonlinear-categorical-variables-ai2Ef)
 
-Leia mais sobre o conceito de regressão e pense sobre que tipo de perguntas podem ser respondidas por esta técnica. Tome este [tutorial](https://docs.microsoft.com/learn/modules/train-evaluate-regression-models?WT.mc_id=academic-15963-cxa) para aprofundar a sua compreensão.
+Leia mais sobre o conceito de regressão e pense sobre que tipo de perguntas podem ser respondidas por esta técnica. Tome este [tutorial](https://docs.microsoft.com/learn/modules/train-evaluate-regression-models?WT.mc_id=academic-77952-leestott) para aprofundar a sua compreensão.
 ## Missão 
 
 [Um conjunto de dados diferente](assignment.md)

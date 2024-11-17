@@ -10,7 +10,7 @@ In this lesson and the following one, you will learn a bit about time series for
 
 > 🎥 Click the image above for a video about time series forecasting
 
-## [Pre-lecture quiz](https://white-water-09ec41f0f.azurestaticapps.net/quiz/41/)
+## [Pre-lecture quiz](https://gray-sand-07a10f403.1.azurestaticapps.net/quiz/41/)
 
 It's a useful and interesting field with real value to business, given its direct application to problems of pricing, inventory, and supply chain issues. While deep learning techniques have started to be used to gain more insights to better predict future performance, time series forecasting remains a field greatly informed by classic ML techniques.
 
@@ -71,9 +71,9 @@ In the next lesson, you will build an ARIMA model using [Univariate Time Series]
 
 ✅ Identify the variable that changes over time in this dataset
 
-## Time Series [data characteristics](https://online.stat.psu.edu/stat510/lesson/1/1.1) to consider
+## Time Series data characteristics to consider
 
-When looking at time series data, you might notice that it has certain characteristics that you need to take into account and mitigate to better understand its patterns. If you consider time series data as potentially providing a 'signal' that you want to analyze, these characteristics can be thought of as 'noise'. You often will need to reduce this 'noise' by offsetting some of these characteristics using some statistical techniques.
+When looking at time series data, you might notice that it has [certain characteristics](https://online.stat.psu.edu/stat510/lesson/1/1.1) that you need to take into account and mitigate to better understand its patterns. If you consider time series data as potentially providing a 'signal' that you want to analyze, these characteristics can be thought of as 'noise'. You often will need to reduce this 'noise' by offsetting some of these characteristics using some statistical techniques.
 
 Here are some concepts you should know to be able to work with time series:
 
@@ -174,7 +174,7 @@ In the next lesson, you will create an ARIMA model to create some forecasts.
 
 Make a list of all the industries and areas of inquiry you can think of that would benefit from time series forecasting. Can you think of an application of these techniques in the arts? In Econometrics? Ecology? Retail? Industry? Finance? Where else?
 
-## [Post-lecture quiz](https://white-water-09ec41f0f.azurestaticapps.net/quiz/42/)
+## [Post-lecture quiz](https://gray-sand-07a10f403.1.azurestaticapps.net/quiz/42/)
 
 ## Review & Self Study
 

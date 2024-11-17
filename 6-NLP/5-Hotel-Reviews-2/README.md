@@ -1,7 +1,7 @@
 # Sentiment analysis with hotel reviews
 
 Now that you have explored the dataset in detail, it's time to filter the columns and then use NLP techniques on the dataset to gain new insights about the hotels.
-## [Pre-lecture quiz](https://white-water-09ec41f0f.azurestaticapps.net/quiz/39/)
+## [Pre-lecture quiz](https://gray-sand-07a10f403.1.azurestaticapps.net/quiz/39/)
 
 ### Filtering & Sentiment Analysis Operations
 
@@ -202,7 +202,7 @@ Finally, and this is delightful (because it didn't take much processing at all),
 | Family  with older children                   | 26349  |
 | With a  pet                                   | 1405   |
 
-You could argue that `Travellers with friends` is the same as `Group` more or less, and that would be fair to combine the two as above. The code for identifying the correct tags is [the Tags notebook](solution/1-notebook.ipynb).
+You could argue that `Travellers with friends` is the same as `Group` more or less, and that would be fair to combine the two as above. The code for identifying the correct tags is [the Tags notebook](https://github.com/microsoft/ML-For-Beginners/blob/main/6-NLP/5-Hotel-Reviews-2/solution/1-notebook.ipynb).
 
 The final step is to create new columns for each of these tags. Then, for every review row, if the `Tag` column matches one of the new columns, add a 1, if not, add a 0. The end result will be a count of how many reviewers chose this hotel (in aggregate) for, say, business vs leisure, or to bring a pet to, and this is useful information when recommending a hotel.
 
@@ -347,20 +347,20 @@ print("Saving results to Hotel_Reviews_NLP.csv")
 df.to_csv(r"../data/Hotel_Reviews_NLP.csv", index = False)
 ```
 
-You should run the entire code for [the analysis notebook](solution/3-notebook.ipynb) (after you've run [your filtering notebook](solution/1-notebook.ipynb) to generate the Hotel_Reviews_Filtered.csv file).
+You should run the entire code for [the analysis notebook](https://github.com/microsoft/ML-For-Beginners/blob/main/6-NLP/5-Hotel-Reviews-2/solution/3-notebook.ipynb) (after you've run [your filtering notebook](https://github.com/microsoft/ML-For-Beginners/blob/main/6-NLP/5-Hotel-Reviews-2/solution/1-notebook.ipynb) to generate the Hotel_Reviews_Filtered.csv file).
 
 To review, the steps are:
 
-1. Original dataset file **Hotel_Reviews.csv** is explored in the previous lesson with [the explorer notebook](../4-Hotel-Reviews-1/solution/notebook.ipynb)
-2. Hotel_Reviews.csv is filtered by [the filtering notebook](solution/1-notebook.ipynb) resulting in **Hotel_Reviews_Filtered.csv**
-3. Hotel_Reviews_Filtered.csv is processed by [the sentiment analysis notebook](solution/3-notebook.ipynb) resulting in **Hotel_Reviews_NLP.csv**
+1. Original dataset file **Hotel_Reviews.csv** is explored in the previous lesson with [the explorer notebook](https://github.com/microsoft/ML-For-Beginners/blob/main/6-NLP/4-Hotel-Reviews-1/solution/notebook.ipynb)
+2. Hotel_Reviews.csv is filtered by [the filtering notebook](https://github.com/microsoft/ML-For-Beginners/blob/main/6-NLP/5-Hotel-Reviews-2/solution/1-notebook.ipynb) resulting in **Hotel_Reviews_Filtered.csv**
+3. Hotel_Reviews_Filtered.csv is processed by [the sentiment analysis notebook](https://github.com/microsoft/ML-For-Beginners/blob/main/6-NLP/5-Hotel-Reviews-2/solution/3-notebook.ipynb) resulting in **Hotel_Reviews_NLP.csv**
 4. Use Hotel_Reviews_NLP.csv in the NLP Challenge below
 
 ### Conclusion
 
 When you started, you had a dataset with columns and data but not all of it could be verified or used. You've explored the data, filtered out what you don't need, converted tags into something useful, calculated your own averages, added some sentiment columns and hopefully, learned some interesting things about processing natural text.
 
-## [Post-lecture quiz](https://white-water-09ec41f0f.azurestaticapps.net/quiz/40/)
+## [Post-lecture quiz](https://gray-sand-07a10f403.1.azurestaticapps.net/quiz/40/)
 
 ## Challenge
 
@@ -368,7 +368,7 @@ Now that you have your dataset analyzed for sentiment, see if you can use strate
 
 ## Review & Self Study
 
-Take [this Learn module](https://docs.microsoft.com/en-us/learn/modules/classify-user-feedback-with-the-text-analytics-api/?WT.mc_id=academic-15963-cxa) to learn more and use different tools to explore sentiment in text.
+Take [this Learn module](https://docs.microsoft.com/en-us/learn/modules/classify-user-feedback-with-the-text-analytics-api/?WT.mc_id=academic-77952-leestott) to learn more and use different tools to explore sentiment in text.
 ## Assignment 
 
 [Try a different dataset](assignment.md)

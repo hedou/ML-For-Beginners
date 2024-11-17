@@ -4,7 +4,7 @@
 
 다양한 classifiers와 데이터셋을 사용해서 _재료 그룹 기반으로 주어진 국민 요리를 예측_ 합니다. 이러는 동안, classification 작업에 알고리즘을 활용할 몇 방식에 대해 자세히 배워볼 예정입니다.
 
-## [강의 전 퀴즈](https://white-water-09ec41f0f.azurestaticapps.net/quiz/21/)
+## [강의 전 퀴즈](https://gray-sand-07a10f403.1.azurestaticapps.net/quiz/21/)
 
 ## 준비하기
 
@@ -103,11 +103,11 @@ Scikit-learn은 Supervised Learning 아래에 classification 그룹으로 묶여
 ![comparison of classifiers](../images/comparison.png)
 > Plots generated on Scikit-learn's documentation
 
-> AutoML은 클라우드에서 comparisons을 실행해서 이러한 문제를 깔끔하게 해결했으며, 데이터에 적당한 알고리즘을 고를 수 있습니다. [here](https://docs.microsoft.com/learn/modules/automate-model-selection-with-azure-automl/?WT.mc_id=academic-15963-cxa)에서 시도해봅니다.
+> AutoML은 클라우드에서 comparisons을 실행해서 이러한 문제를 깔끔하게 해결했으며, 데이터에 적당한 알고리즘을 고를 수 있습니다. [here](https://docs.microsoft.com/learn/modules/automate-model-selection-with-azure-automl/?WT.mc_id=academic-77952-leestott)에서 시도해봅니다.
 
 ### 더 괜찮은 접근법
 
-그러나, 성급히 추측하기보다 더 괜찮은 방식으로, 내려받을 수 있는 [ML Cheat sheet](https://docs.microsoft.com/azure/machine-learning/algorithm-cheat-sheet?WT.mc_id=academic-15963-cxa)의 아이디어를 따르는 것입니다. 여기, multiclass 문제에 대하여, 몇 선택 사항을 볼 수 있습니다:
+그러나, 성급히 추측하기보다 더 괜찮은 방식으로, 내려받을 수 있는 [ML Cheat sheet](https://docs.microsoft.com/azure/machine-learning/algorithm-cheat-sheet?WT.mc_id=academic-77952-leestott)의 아이디어를 따르는 것입니다. 여기, multiclass 문제에 대하여, 몇 선택 사항을 볼 수 있습니다:
 
 ![cheatsheet for multiclass problems](../images/cheatsheet.png)
 > multiclass classification 옵션을 잘 설명하는, Microsoft의 알고리즘 치트 시트의 섹션
@@ -233,7 +233,7 @@ multiclass 케이스로, 사용할 _scheme_ 와 설정할 _solver_ 를 선택해
 
 이 강의에서, 정리된 데이터로 재료의 시리즈를 기반으로 국민 요리를 예측할 수 있는 머신러닝 모델을 만들었습니다. 시간을 투자해서 Scikit-learn이 데이터를 분류하기 위해 제공하는 다양한 옵션을 읽어봅니다. 무대 뒤에서 생기는 일을 이해하기 위해서 'solver'의 개념을 깊게 파봅니다.
 
-## [강의 후 퀴즈](https://white-water-09ec41f0f.azurestaticapps.net/quiz/22/)
+## [강의 후 퀴즈](https://gray-sand-07a10f403.1.azurestaticapps.net/quiz/22/)
 ## 검토 & 자기주도 학습
 
 [this lesson](https://people.eecs.berkeley.edu/~russell/classes/cs194/f11/lectures/CS194%20Fall%202011%20Lecture%2006.pdf)에서 logistic regression 뒤의 수학에 대해서 더 자세히 파봅니다.

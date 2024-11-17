@@ -4,7 +4,7 @@
 
 > 🎥 Cliquer sur l'image ci-dessus afin de regarder une vidéo expliquant la différence entre machine learning, AI et deep learning.
 
-## [Quiz préalable](https://white-water-09ec41f0f.azurestaticapps.net/quiz/1?loc=fr)
+## [Quiz préalable](https://gray-sand-07a10f403.1.azurestaticapps.net/quiz/1?loc=fr)
 
 ### Introduction
 
@@ -18,7 +18,7 @@ Bienvenue à ce cours sur le machine learning classique pour débutant ! Que vou
 Avant de commencer avec ce cours, vous aurez besoin d'un ordinateur configuré et prêt à faire tourner des notebooks (jupyter) localement.
 
 - **Configurer votre ordinateur avec ces vidéos**. Apprendre comment configurer votre ordinateur avec cette [série de vidéos](https://www.youtube.com/playlist?list=PLlrxD0HtieHhS8VzuMCfQD4uJ9yne1mE6).
-- **Apprendre Python**. Il est aussi recommandé d'avoir une connaissance basique de [Python](https://docs.microsoft.com/learn/paths/python-language/?WT.mc_id=academic-15963-cxa), un langage de programmaton utile pour les data scientist que nous utilisons tout au long de ce cours.
+- **Apprendre Python**. Il est aussi recommandé d'avoir une connaissance basique de [Python](https://docs.microsoft.com/learn/paths/python-language/?WT.mc_id=academic-77952-leestott), un langage de programmaton utile pour les data scientist que nous utilisons tout au long de ce cours.
 - **Apprendre Node.js et Javascript**. Nous utilisons aussi Javascript par moment dans ce cours afin de construire des applications WEB, vous aurez donc besoin de [node](https://nodejs.org) et [npm](https://www.npmjs.com/) installé, ainsi que de [Visual Studio Code](https://code.visualstudio.com/) pour développer en Python et Javascript.
 - **Créer un compte GitHub**. Comme vous nous avez trouvé sur [GitHub](https://github.com), vous y avez sûrement un compte, mais si non, créez en un et répliquez ce cours afin de l'utiliser à votre grés. (N'oublier pas de nous donner une étoile aussi 😊)
 - **Explorer Scikit-learn**. Familiariser vous avec [Scikit-learn](https://scikit-learn.org/stable/user_guide.html), un ensemble de librairies ML que nous mentionnons dans nos leçons.
@@ -37,7 +37,7 @@ Le cerveau d'un enfant et ses sens perçoivent l'environnement qui les entourent
 
 Le [cerveau humain](https://www.livescience.com/29365-human-brain.html) perçoit des choses du monde réel, assimile les informations perçues, fait des décisions rationnelles et entreprend certaines actions selon le contexte. C'est ce que l'on appelle se comporter intelligemment. Lorsque nous programmons une reproduction du processus de ce comportement à une machine, c'est ce que l'on appelle intelligence artificielle (IA).
 
-Bien que le terme peut être confu, machine learning (ML) est un important sous-ensemble de l'intelligence artificielle. **ML se réfère à l'utilisation d'algorithmes spécialisés afin de découvrir des informations utiles et de trouver des schémas non observés depuis des données perçues pour corroborer un processus de décision rationnel**.
+Bien que le terme puisse être confus, le machine learning (ML) est un important sous-ensemble de l'intelligence artificielle. **Le ML consiste à utiliser des algorithmes spécialisés afin de découvrir des informations utiles et de trouver des schémas non observés depuis des données perçues pour corroborer un processus de décision rationnel**.
 
 ![AI, ML, deep learning, data science](../images/ai-ml-ds.png)
 
@@ -66,19 +66,19 @@ Dans ce cours, vous allez apprendre :
 - Neural networks
 - IA
 
-Afin d'avoir la meilleur expérience d'apprentissage, nous éviterons les complexités des réseaux neuronaux, du 'deep learning' (construire un modèle utilisant plusieurs couches de réseaux neuronaux) et IA, dont nous parlerons dans un cours différent. Nous offirons aussi un cours à venir sur la data science pour concentrer sur cet aspect de champs très large.
+Afin d'avoir la meilleure expérience d'apprentissage, nous éviterons les complexités des réseaux neuronaux, du 'deep learning' (construire un modèle utilisant plusieurs couches de réseaux neuronaux) et IA, dont nous parlerons dans un cours différent. Nous offirons aussi un cours à venir sur la data science pour nous concentrer sur cet aspect de champs très large.
 
-## Pourquoi etudier le machine learning ?
+## Pourquoi étudier le machine learning ?
 
 Le machine learning, depuis une perspective systémique, est défini comme la création de systèmes automatiques pouvant apprendre des schémas non observés depuis des données afin d'aider à prendre des décisions intelligentes.
 
 Ce but est faiblement inspiré de la manière dont le cerveau humain apprend certaines choses depuis les données qu'il perçoit du monde extérieur.
 
-✅ Penser une minute aux raisons qu'une entreprise aurait d'essayer d'utiliser des stratégies de machine learning au lieu de créer des règles codés en dur.
+✅ Pensez une minute aux raisons qu'une entreprise aurait d'essayer d'utiliser des stratégies de machine learning au lieu de créer des règles codés en dur.
 
 ### Les applications du machine learning
 
-Les applications du machine learning sont maintenant pratiquement partout, et sont aussi omniprésentes que les données qui circulent autour de notre société (générés par nos smartphones, appareils connectés ou autres systèmes). En prenant en considération l'immense potentiel des algorithmes dernier cri de machine learning, les chercheurs ont pu exploités leurs capacités afin de résoudre des problèmes multidimensionnels et interdisciplinaires de la vie avec d'important retours positifs 
+Les applications du machine learning sont maintenant pratiquement partout, et sont aussi omniprésentes que les données qui circulent autour de notre société (générées par nos smartphones, appareils connectés ou autres systèmes). En prenant en considération l'immense potentiel des algorithmes dernier cri de machine learning, les chercheurs ont pu exploiter leurs capacités afin de résoudre des problèmes multidimensionnels et interdisciplinaires de la vie avec d'important retours positifs.
 
 **Vous pouvez utiliser le machine learning de plusieurs manières** :
 
@@ -98,11 +98,11 @@ Dans un avenir proche, comprendre les bases du machine learning sera indispensab
 
 Esquisser, sur papier ou à l'aide d'une application en ligne comme [Excalidraw](https://excalidraw.com/), votre compréhension des différences entre l'IA, le ML, le deep learning et la data science. Ajouter quelques idées de problèmes que chacune de ces techniques est bonne à résoudre.
 
-## [Quiz de validation des connaissances](https://white-water-09ec41f0f.azurestaticapps.net/quiz/2?loc=fr)
+## [Quiz de validation des connaissances](https://gray-sand-07a10f403.1.azurestaticapps.net/quiz/2?loc=fr)
 
 ## Révision et auto-apprentissage
 
-Pour en savoir plus sur la façon dont vous pouvez utiliser les algorithmes de ML dans le cloud, suivez ce [Parcours d'apprentissage](https://docs.microsoft.com/learn/paths/create-no-code-predictive-models-azure-machine-learning/?WT.mc_id=academic-15963-cxa).
+Pour en savoir plus sur la façon dont vous pouvez utiliser les algorithmes de ML dans le cloud, suivez ce [Parcours d'apprentissage](https://docs.microsoft.com/learn/paths/create-no-code-predictive-models-azure-machine-learning/?WT.mc_id=academic-77952-leestott).
 
 ## Devoir
 

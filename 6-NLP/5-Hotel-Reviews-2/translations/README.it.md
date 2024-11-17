@@ -2,7 +2,7 @@
 
 Ora che si è  esplorato in dettaglio l'insieme di dati, è il momento di filtrare le colonne e quindi utilizzare le tecniche NLP sull'insieme di dati per ottenere nuove informazioni sugli hotel.
 
-## [Quiz pre-lezione](https://white-water-09ec41f0f.azurestaticapps.net/quiz/39/?loc=it)
+## [Quiz pre-lezione](https://gray-sand-07a10f403.1.azurestaticapps.net/quiz/39/?loc=it)
 
 ### Operazioni di Filtraggio e Analisi del Sentiment
 
@@ -361,7 +361,7 @@ Per riepilogare, i passaggi sono:
 
 Quando si è iniziato, si disponeva di un insieme di dati con colonne e dati, ma non tutto poteva essere verificato o utilizzato. Si sono esplorati i dati, filtrato ciò che non serve, convertito i tag in qualcosa di utile, calcolato le proprie medie, aggiunto alcune colonne di sentiment e, si spera, imparato alcune cose interessanti sull'elaborazione del testo naturale.
 
-## [Quiz post-lezione](https://white-water-09ec41f0f.azurestaticapps.net/quiz/40/?loc=it)
+## [Quiz post-lezione](https://gray-sand-07a10f403.1.azurestaticapps.net/quiz/40/?loc=it)
 
 ## Sfida
 
@@ -369,7 +369,7 @@ Ora che si è analizzato il proprio insieme di dati per il sentiment, vedere se 
 
 ## recensione e Auto Apprendimento
 
-Seguire [questo modulo di apprendimento](https://docs.microsoft.com/en-us/learn/modules/classify-user-feedback-with-the-text-analytics-api/?WT.mc_id=academic-15963-cxa) per saperne di più e utilizzare diversi strumenti per esplorare il sentiment nel testo.
+Seguire [questo modulo di apprendimento](https://docs.microsoft.com/en-us/learn/modules/classify-user-feedback-with-the-text-analytics-api/?WT.mc_id=academic-77952-leestott) per saperne di più e utilizzare diversi strumenti per esplorare il sentiment nel testo.
 
 ## Compito
 
